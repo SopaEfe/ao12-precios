@@ -1,6 +1,6 @@
 {
-  "fecha_actualizacion": "20/05/2026 09:25",
-  "total_productos": 920,
+  "fecha_actualizacion": "20/05/2026 09:26",
+  "total_productos": 895,
   "productos": [
     {
       "codigo": 1134,
@@ -27,7 +27,7 @@
       "sublinea": "",
       "precio_bulto": 21750,
       "precio_unidad": 1812.5,
-      "stock": 2
+      "stock": 5
     },
     {
       "codigo": 1142,
@@ -36,7 +36,7 @@
       "sublinea": "",
       "precio_bulto": 29120,
       "precio_unidad": 2912,
-      "stock": 2
+      "stock": 24
     },
     {
       "codigo": 1250,
@@ -45,7 +45,7 @@
       "sublinea": "",
       "precio_bulto": 20650,
       "precio_unidad": 826,
-      "stock": 224
+      "stock": 184
     },
     {
       "codigo": 1124,
@@ -61,8 +61,8 @@
       "descripcion": "TURRON ARCOR (Presentación x50u)",
       "linea": "ALMACEN",
       "sublinea": "",
-      "precio_bulto": 10690,
-      "precio_unidad": 213.8,
+      "precio_bulto": 41100,
+      "precio_unidad": 3425,
       "stock": 332
     },
     {
@@ -70,54 +70,36 @@
       "descripcion": "ACEITE CAÑUELAS X900ML (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 57820,
-      "precio_unidad": 3854.67,
-      "stock": 2
+      "precio_bulto": 63020,
+      "precio_unidad": 5251.67,
+      "stock": 1
     },
     {
       "codigo": 473,
       "descripcion": "ACEITE COCINERO X900ML (Presentación x15u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 58800,
-      "precio_unidad": 4900,
-      "stock": 31
-    },
-    {
-      "codigo": 1264,
-      "descripcion": "ACEITE CORTIJO X1,5L (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "ACEITES",
-      "precio_bulto": 63020,
-      "precio_unidad": 5251.67,
-      "stock": 0
+      "precio_bulto": 46470,
+      "precio_unidad": 3098,
+      "stock": 427
     },
     {
       "codigo": 360,
       "descripcion": "ACEITE COSTA DEL SOL X5L (Presentación x4u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 40350,
-      "precio_unidad": 2690,
-      "stock": 20
+      "precio_bulto": 58030,
+      "precio_unidad": 4835.83,
+      "stock": 17
     },
     {
       "codigo": 1130,
       "descripcion": "ACEITE EL CORTIJO X900CC (Presentación x15u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 29040,
-      "precio_unidad": 2420,
-      "stock": 10
-    },
-    {
-      "codigo": 1138,
-      "descripcion": "ACEITE EL PRIMORDIAL X900ML (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "ACEITES",
-      "precio_bulto": 58030,
-      "precio_unidad": 4835.83,
-      "stock": 0
+      "precio_bulto": 68300,
+      "precio_unidad": 5691.67,
+      "stock": 452
     },
     {
       "codigo": 1249,
@@ -133,17 +115,17 @@
       "descripcion": "ACEITE PREMIER X900ML (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 32280,
-      "precio_unidad": 2690,
-      "stock": 32
+      "precio_bulto": 37810,
+      "precio_unidad": 3150.83,
+      "stock": 73
     },
     {
       "codigo": 409,
       "descripcion": "MERCADERIA VARIAS (Presentación x1u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 37810,
-      "precio_unidad": 3150.83,
+      "precio_bulto": 43660,
+      "precio_unidad": 3638.33,
       "stock": 33
     },
     {
@@ -160,8 +142,8 @@
       "descripcion": "ROCIO VEGETAL NATURA (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITES",
-      "precio_bulto": 42650,
-      "precio_unidad": 3554.17,
+      "precio_bulto": 24170,
+      "precio_unidad": 1611.33,
       "stock": 14
     },
     {
@@ -171,16 +153,16 @@
       "sublinea": "ACEITUNAS",
       "precio_bulto": 24170,
       "precio_unidad": 1611.33,
-      "stock": 154
+      "stock": 149
     },
     {
       "codigo": 1112,
       "descripcion": "ACEITUNAS VERDES DESCAROZADAS X150G (Presentación x15u)",
       "linea": "ALMACEN",
       "sublinea": "ACEITUNAS",
-      "precio_bulto": 24170,
-      "precio_unidad": 1611.33,
-      "stock": 146
+      "precio_bulto": 40930,
+      "precio_unidad": 1705.42,
+      "stock": 139
     },
     {
       "codigo": 564,
@@ -189,7 +171,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 17380,
       "precio_unidad": 1448.33,
-      "stock": 21
+      "stock": 14
     },
     {
       "codigo": 707,
@@ -198,7 +180,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 10410,
       "precio_unidad": 867.5,
-      "stock": 131
+      "stock": 17
     },
     {
       "codigo": 362,
@@ -225,7 +207,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 32260,
       "precio_unidad": 1344.17,
-      "stock": 112
+      "stock": 46
     },
     {
       "codigo": 1204,
@@ -234,7 +216,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 41640,
       "precio_unidad": 5205,
-      "stock": 6
+      "stock": 5
     },
     {
       "codigo": 394,
@@ -243,7 +225,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 21120,
       "precio_unidad": 704,
-      "stock": 5
+      "stock": 4
     },
     {
       "codigo": 659,
@@ -252,7 +234,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 20610,
       "precio_unidad": 3435,
-      "stock": 99
+      "stock": 29
     },
     {
       "codigo": 361,
@@ -261,34 +243,34 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 18300,
       "precio_unidad": 1525,
-      "stock": 7
+      "stock": 5
+    },
+    {
+      "codigo": 284,
+      "descripcion": "CAJA NAVIDEÑA C3 (Presentación x1u)",
+      "linea": "ALMACEN",
+      "sublinea": "APERITIVOS",
+      "precio_bulto": 18470,
+      "precio_unidad": 1847,
+      "stock": 150
     },
     {
       "codigo": 160,
       "descripcion": "ARROZ LUCHETTI LARGO FINO X1K (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "ARROZ",
-      "precio_bulto": 18470,
-      "precio_unidad": 1847,
+      "precio_bulto": 64520,
+      "precio_unidad": 1344.17,
       "stock": 118
-    },
-    {
-      "codigo": 436,
-      "descripcion": "ARROZ PELEADOR X500G (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "ARROZ",
-      "precio_bulto": 11860,
-      "precio_unidad": 1186,
-      "stock": 11
     },
     {
       "codigo": 929,
       "descripcion": "ARROZ TRIMACER X500G D.CAROLINA (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "ARROZ",
-      "precio_bulto": 6240,
-      "precio_unidad": 624,
-      "stock": 304
+      "precio_bulto": 64520,
+      "precio_unidad": 1344.17,
+      "stock": 303
     },
     {
       "codigo": 786,
@@ -340,8 +322,8 @@
       "descripcion": "SARDINAS BAHIA X125G ACEITE Y AGUA (Presentación x50u)",
       "linea": "ALMACEN",
       "sublinea": "ATUN",
-      "precio_bulto": 70440,
-      "precio_unidad": 1408.8,
+      "precio_bulto": 13470,
+      "precio_unidad": 1347,
       "stock": 6
     },
     {
@@ -349,27 +331,9 @@
       "descripcion": "AZUCAR ANDINA X1K (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "AZUCAR",
-      "precio_bulto": 10900,
-      "precio_unidad": 1090,
-      "stock": 241
-    },
-    {
-      "codigo": 1150,
-      "descripcion": "AZUCAR BAITY X1KG (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "AZUCAR",
-      "precio_bulto": 13470,
-      "precio_unidad": 1347,
-      "stock": 158
-    },
-    {
-      "codigo": 1125,
-      "descripcion": "AZUCAR DULCE DEL VALLE X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "AZUCAR",
-      "precio_bulto": 13470,
-      "precio_unidad": 1347,
-      "stock": 64
+      "precio_bulto": 11830,
+      "precio_unidad": 1314.44,
+      "stock": 112
     },
     {
       "codigo": 624,
@@ -378,7 +342,7 @@
       "sublinea": "AZUCAR",
       "precio_bulto": 19840,
       "precio_unidad": 2204.44,
-      "stock": 148
+      "stock": 147
     },
     {
       "codigo": 623,
@@ -387,115 +351,16 @@
       "sublinea": "AZUCAR",
       "precio_bulto": 16000,
       "precio_unidad": 1600,
-      "stock": 131
+      "stock": 130
     },
     {
       "codigo": 285,
       "descripcion": "AZUCAR LEDESMA 1KG (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "AZUCAR",
-      "precio_bulto": 16000,
-      "precio_unidad": 1600,
+      "precio_bulto": 22840,
+      "precio_unidad": 1903.33,
       "stock": 4
-    },
-    {
-      "codigo": 725,
-      "descripcion": "BUDIN DON SATOR X190G C/CHIPS (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 22100,
-      "precio_unidad": 1473.33,
-      "stock": 5
-    },
-    {
-      "codigo": 726,
-      "descripcion": "BUDIN DON SATUR X190G C/FRUTAS (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 22100,
-      "precio_unidad": 1473.33,
-      "stock": 41
-    },
-    {
-      "codigo": 1141,
-      "descripcion": "BUDIN DON SATUR X190G MARMOLADO (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 22100,
-      "precio_unidad": 1473.33,
-      "stock": 1
-    },
-    {
-      "codigo": 727,
-      "descripcion": "BUDIN DON SATUR X190G VAINILLA (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 20730,
-      "precio_unidad": 1727.5,
-      "stock": 2
-    },
-    {
-      "codigo": 1140,
-      "descripcion": "BUDIN FANTOCHE C/CHIPS CHOCOLATE X200G (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 20720,
-      "precio_unidad": 1726.67,
-      "stock": 19
-    },
-    {
-      "codigo": 804,
-      "descripcion": "BUDIN FANTOCHE X200G CON FRUTA (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 20720,
-      "precio_unidad": 1726.67,
-      "stock": 71
-    },
-    {
-      "codigo": 803,
-      "descripcion": "BUDIN FANTOCHE X200GSIN FRUTA (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 20720,
-      "precio_unidad": 1726.67,
-      "stock": 14
-    },
-    {
-      "codigo": 868,
-      "descripcion": "BUDIN FANTOCHE X220G MARMOLADO (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 21320,
-      "precio_unidad": 1421.33,
-      "stock": 35
-    },
-    {
-      "codigo": 1168,
-      "descripcion": "BUDIN GAONA C/CHIPS (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 21320,
-      "precio_unidad": 1421.33,
-      "stock": 76
-    },
-    {
-      "codigo": 1169,
-      "descripcion": "BUDIN GAONA MARMOLADO (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 21320,
-      "precio_unidad": 1421.33,
-      "stock": 62
-    },
-    {
-      "codigo": 1167,
-      "descripcion": "BUDIN GAONA VAINILLA (Presentación x15u)",
-      "linea": "ALMACEN",
-      "sublinea": "BUDINES",
-      "precio_bulto": 21320,
-      "precio_unidad": 1421.33,
-      "stock": 103
     },
     {
       "codigo": 674,
@@ -504,7 +369,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 36860,
       "precio_unidad": 2047.78,
-      "stock": 6
+      "stock": 5
     },
     {
       "codigo": 1006,
@@ -513,7 +378,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 30790,
       "precio_unidad": 2565.83,
-      "stock": 52
+      "stock": 10
     },
     {
       "codigo": 433,
@@ -522,83 +387,65 @@
       "sublinea": "CAFE",
       "precio_bulto": 72600,
       "precio_unidad": 6050,
-      "stock": 71
+      "stock": 66
     },
     {
       "codigo": 432,
       "descripcion": "CAFE ARLISTAN X170G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
-      "precio_bulto": 19440,
-      "precio_unidad": 3240,
+      "precio_bulto": 35190,
+      "precio_unidad": 4398.75,
       "stock": 37
     },
     {
-      "codigo": 1004,
-      "descripcion": "CAFE DOLCA ORIGINAL X50G FRASCO (Presentación x6u)",
-      "linea": "ALMACEN",
-      "sublinea": "CAFE",
-      "precio_bulto": 35190,
-      "precio_unidad": 4398.75,
-      "stock": 15
-    },
-    {
       "codigo": 1273,
-      "descripcion": "CAFE DOLCA SUAVE D/PACK X100G (Presentación x8u)",
+      "descripcion": "CAFE DOLCA D/PACK X100G SUAVE (Presentación x8u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
       "precio_bulto": 19440,
       "precio_unidad": 3240,
-      "stock": 35
+      "stock": 33
+    },
+    {
+      "codigo": 1004,
+      "descripcion": "CAFE DOLCA FRASCO X50G ORIGINAL (Presentación x6u)",
+      "linea": "ALMACEN",
+      "sublinea": "CAFE",
+      "precio_bulto": 19440,
+      "precio_unidad": 3240,
+      "stock": 15
     },
     {
       "codigo": 1005,
-      "descripcion": "CAFE DOLCA SUAVE X50G FRASCO (Presentación x6u)",
-      "linea": "ALMACEN",
-      "sublinea": "CAFE",
-      "precio_bulto": 42570,
-      "precio_unidad": 7095,
-      "stock": 40
-    },
-    {
-      "codigo": 749,
-      "descripcion": "CAFE LV CLASICO FRASCO X170G (Presentación x6u)",
+      "descripcion": "CAFE DOLCA FRASCO X50G SUAVE (Presentación x6u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
       "precio_bulto": 27070,
       "precio_unidad": 4511.67,
-      "stock": 1
+      "stock": 40
     },
     {
       "codigo": 1090,
       "descripcion": "CAFE LV FRASCO X100G CLASICO (Presentación x6u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
+      "precio_bulto": 42570,
+      "precio_unidad": 7095,
+      "stock": 0
+    },
+    {
+      "codigo": 749,
+      "descripcion": "CAFE LV FRASCO X170G (Presentación x6u)",
+      "linea": "ALMACEN",
+      "sublinea": "CAFE",
       "precio_bulto": 15120,
       "precio_unidad": 2520,
-      "stock": 7
+      "stock": 1
     },
     {
       "codigo": 673,
       "descripcion": "CAFE LV FRASCO X50G (Presentación x6u)",
-      "linea": "ALMACEN",
-      "sublinea": "CAFE",
-      "precio_bulto": 34340,
-      "precio_unidad": 2861.67,
-      "stock": 7
-    },
-    {
-      "codigo": 670,
-      "descripcion": "CAFE LV TORRADO CLASICO X125G (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "CAFE",
-      "precio_bulto": 61440,
-      "precio_unidad": 5120,
-      "stock": 0
-    },
-    {
-      "codigo": 671,
-      "descripcion": "CAFE LV TORRADO CLASICO X250G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
       "precio_bulto": 41210,
@@ -607,7 +454,25 @@
     },
     {
       "codigo": 672,
-      "descripcion": "CAFE SAQUITOS LV TORRADO 20X5G (Presentación x10u)",
+      "descripcion": "CAFE LV SAQUITOS 20X5G (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "CAFE",
+      "precio_bulto": 34340,
+      "precio_unidad": 2861.67,
+      "stock": 18
+    },
+    {
+      "codigo": 670,
+      "descripcion": "CAFE LV TORRADO CLASICO X125G (Presentación x12u)",
+      "linea": "ALMACEN",
+      "sublinea": "CAFE",
+      "precio_bulto": 61440,
+      "precio_unidad": 5120,
+      "stock": 4
+    },
+    {
+      "codigo": 671,
+      "descripcion": "CAFE LV TORRADO CLASICO X250G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
       "precio_bulto": 38860,
@@ -630,7 +495,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 44350,
       "precio_unidad": 4435,
-      "stock": 11
+      "stock": 7
     },
     {
       "codigo": 675,
@@ -648,16 +513,16 @@
       "sublinea": "CAFE",
       "precio_bulto": 38870,
       "precio_unidad": 3887,
-      "stock": 0
+      "stock": 11
     },
     {
       "codigo": 748,
       "descripcion": "CAPPUCCINO LV X155G VAINILLA (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "CAFE",
-      "precio_bulto": 38870,
-      "precio_unidad": 3887,
-      "stock": 4
+      "precio_bulto": 4500,
+      "precio_unidad": 4500,
+      "stock": 3
     },
     {
       "codigo": 939,
@@ -709,8 +574,8 @@
       "descripcion": "TRIX CEREAL X230G (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "CEREALES",
-      "precio_bulto": 105060,
-      "precio_unidad": 5253,
+      "precio_bulto": 6280,
+      "precio_unidad": 6280,
       "stock": 2
     },
     {
@@ -729,7 +594,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 4680,
       "precio_unidad": 4680,
-      "stock": 18
+      "stock": 17
     },
     {
       "codigo": 1132,
@@ -747,7 +612,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 4990,
       "precio_unidad": 4990,
-      "stock": 4
+      "stock": 3
     },
     {
       "codigo": 943,
@@ -810,7 +675,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5900,
       "precio_unidad": 5900,
-      "stock": 9
+      "stock": 8
     },
     {
       "codigo": 1255,
@@ -819,7 +684,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5900,
       "precio_unidad": 5900,
-      "stock": 1
+      "stock": 0
     },
     {
       "codigo": 1258,
@@ -828,7 +693,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5770,
       "precio_unidad": 5770,
-      "stock": 7
+      "stock": 4
     },
     {
       "codigo": 1259,
@@ -837,7 +702,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5900,
       "precio_unidad": 5900,
-      "stock": 3
+      "stock": 1
     },
     {
       "codigo": 1256,
@@ -846,7 +711,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5900,
       "precio_unidad": 5900,
-      "stock": 6
+      "stock": 3
     },
     {
       "codigo": 1257,
@@ -855,7 +720,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 5900,
       "precio_unidad": 5900,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 1254,
@@ -864,7 +729,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 4260,
       "precio_unidad": 4260,
-      "stock": 5
+      "stock": 3
     },
     {
       "codigo": 521,
@@ -927,7 +792,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 10000,
       "precio_unidad": 10000,
-      "stock": 4
+      "stock": 2
     },
     {
       "codigo": 1131,
@@ -943,9 +808,9 @@
       "descripcion": "PAPAS CRISKEY X1KG (Presentación x1u)",
       "linea": "ALMACEN",
       "sublinea": "COPETIN",
-      "precio_bulto": 10840,
-      "precio_unidad": 10840,
-      "stock": 1
+      "precio_bulto": 78860,
+      "precio_unidad": 8762.22,
+      "stock": 5
     },
     {
       "codigo": 1189,
@@ -954,7 +819,7 @@
       "sublinea": "COPETIN",
       "precio_bulto": 47320,
       "precio_unidad": 4732,
-      "stock": 15
+      "stock": 10
     },
     {
       "codigo": 1190,
@@ -970,8 +835,8 @@
       "descripcion": "TUTUCAS NIKITOS X1KG (Presentación x1u)",
       "linea": "ALMACEN",
       "sublinea": "COPETIN",
-      "precio_bulto": 5660,
-      "precio_unidad": 5660,
+      "precio_bulto": 8800,
+      "precio_unidad": 1466.67,
       "stock": 0
     },
     {
@@ -999,15 +864,15 @@
       "sublinea": "EDULCORANTE",
       "precio_bulto": 73810,
       "precio_unidad": 3075.42,
-      "stock": 4
+      "stock": 1
     },
     {
       "codigo": 949,
       "descripcion": "EDULCORENTE TUY X200ML STEVIA (Presentación x24u)",
       "linea": "ALMACEN",
       "sublinea": "EDULCORANTE",
-      "precio_bulto": 73810,
-      "precio_unidad": 3075.42,
+      "precio_bulto": 8830,
+      "precio_unidad": 735.83,
       "stock": 9
     },
     {
@@ -1017,7 +882,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 11910,
       "precio_unidad": 992.5,
-      "stock": 44
+      "stock": 43
     },
     {
       "codigo": 1156,
@@ -1035,7 +900,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 12230,
       "precio_unidad": 1019.17,
-      "stock": 14
+      "stock": 0
     },
     {
       "codigo": 896,
@@ -1062,7 +927,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 9720,
       "precio_unidad": 810,
-      "stock": 4
+      "stock": 10
     },
     {
       "codigo": 751,
@@ -1107,7 +972,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 17280,
       "precio_unidad": 720,
-      "stock": 6
+      "stock": 0
     },
     {
       "codigo": 688,
@@ -1116,7 +981,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 18100,
       "precio_unidad": 1508.33,
-      "stock": 7
+      "stock": 0
     },
     {
       "codigo": 690,
@@ -1143,7 +1008,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 11690,
       "precio_unidad": 974.17,
-      "stock": 9
+      "stock": 2
     },
     {
       "codigo": 685,
@@ -1152,7 +1017,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 12920,
       "precio_unidad": 516.8,
-      "stock": 11
+      "stock": 13
     },
     {
       "codigo": 969,
@@ -1161,7 +1026,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 3
+      "stock": 14
     },
     {
       "codigo": 889,
@@ -1179,7 +1044,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 2
+      "stock": 6
     },
     {
       "codigo": 861,
@@ -1188,7 +1053,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 21
+      "stock": 17
     },
     {
       "codigo": 892,
@@ -1197,7 +1062,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 0
+      "stock": 9
     },
     {
       "codigo": 893,
@@ -1206,7 +1071,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 22
+      "stock": 20
     },
     {
       "codigo": 862,
@@ -1215,7 +1080,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 3
+      "stock": 9
     },
     {
       "codigo": 890,
@@ -1224,7 +1089,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 12
+      "stock": 11
     },
     {
       "codigo": 891,
@@ -1233,7 +1098,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 35050,
       "precio_unidad": 3505,
-      "stock": 10
+      "stock": 8
     },
     {
       "codigo": 860,
@@ -1242,7 +1107,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 16690,
       "precio_unidad": 1669,
-      "stock": 7
+      "stock": 2
     },
     {
       "codigo": 864,
@@ -1251,7 +1116,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 16690,
       "precio_unidad": 1669,
-      "stock": 0
+      "stock": 8
     },
     {
       "codigo": 865,
@@ -1260,7 +1125,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 16690,
       "precio_unidad": 1669,
-      "stock": 0
+      "stock": 9
     },
     {
       "codigo": 863,
@@ -1269,7 +1134,7 @@
       "sublinea": "ESPECIAS",
       "precio_bulto": 7490,
       "precio_unidad": 749,
-      "stock": 0
+      "stock": 9
     },
     {
       "codigo": 708,
@@ -1465,9 +1330,9 @@
       "descripcion": "VAINILLA LIQ ALICANTE BOT X100ML (Presentación x16u)",
       "linea": "ALMACEN",
       "sublinea": "ESPECIAS",
-      "precio_bulto": 23190,
-      "precio_unidad": 1449.38,
-      "stock": 3
+      "precio_bulto": 11290,
+      "precio_unidad": 752.67,
+      "stock": 2
     },
     {
       "codigo": 468,
@@ -1476,7 +1341,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 11290,
       "precio_unidad": 752.67,
-      "stock": 44
+      "stock": 29
     },
     {
       "codigo": 1060,
@@ -1485,7 +1350,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 30740,
       "precio_unidad": 1537,
-      "stock": 116
+      "stock": 111
     },
     {
       "codigo": 1062,
@@ -1528,36 +1393,36 @@
       "descripcion": "FIDEOS LA CAMPAGNOLA X500G SPAGHETTI (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "FIDEOS",
-      "precio_bulto": 23320,
-      "precio_unidad": 1166,
-      "stock": 136
+      "precio_bulto": 12920,
+      "precio_unidad": 861.33,
+      "stock": 135
     },
     {
       "codigo": 1272,
       "descripcion": "FIDEOS LUCCHETTI FORATINI (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "FIDEOS",
-      "precio_bulto": 17490,
-      "precio_unidad": 1166,
-      "stock": 168
+      "precio_bulto": 12920,
+      "precio_unidad": 861.33,
+      "stock": 164
     },
     {
       "codigo": 1270,
       "descripcion": "FIDEOS LUCCHETTI MOSTACHOL (Presentación x15u)",
       "linea": "ALMACEN",
       "sublinea": "FIDEOS",
-      "precio_bulto": 23320,
-      "precio_unidad": 1166,
-      "stock": 264
+      "precio_bulto": 12920,
+      "precio_unidad": 861.33,
+      "stock": 251
     },
     {
       "codigo": 1271,
       "descripcion": "FIDEOS LUCCHETTI TALLARIN (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "FIDEOS",
-      "precio_bulto": 23320,
-      "precio_unidad": 1166,
-      "stock": 186
+      "precio_bulto": 12920,
+      "precio_unidad": 861.33,
+      "stock": 178
     },
     {
       "codigo": 1280,
@@ -1566,7 +1431,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12920,
       "precio_unidad": 861.33,
-      "stock": 122
+      "stock": 109
     },
     {
       "codigo": 1053,
@@ -1584,7 +1449,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 16630,
       "precio_unidad": 1108.67,
-      "stock": 141
+      "stock": 83
     },
     {
       "codigo": 1199,
@@ -1602,7 +1467,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 17220,
       "precio_unidad": 861,
-      "stock": 137
+      "stock": 117
     },
     {
       "codigo": 826,
@@ -1611,7 +1476,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 17220,
       "precio_unidad": 861,
-      "stock": 135
+      "stock": 92
     },
     {
       "codigo": 827,
@@ -1620,7 +1485,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12920,
       "precio_unidad": 861.33,
-      "stock": 199
+      "stock": 195
     },
     {
       "codigo": 1073,
@@ -1629,7 +1494,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12930,
       "precio_unidad": 862,
-      "stock": 101
+      "stock": 98
     },
     {
       "codigo": 822,
@@ -1638,7 +1503,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12930,
       "precio_unidad": 862,
-      "stock": 132
+      "stock": 104
     },
     {
       "codigo": 878,
@@ -1656,7 +1521,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12930,
       "precio_unidad": 862,
-      "stock": 75
+      "stock": 13
     },
     {
       "codigo": 877,
@@ -1674,7 +1539,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 14100,
       "precio_unidad": 940,
-      "stock": 18
+      "stock": 26
     },
     {
       "codigo": 539,
@@ -1683,7 +1548,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 14100,
       "precio_unidad": 940,
-      "stock": 58
+      "stock": 55
     },
     {
       "codigo": 308,
@@ -1692,7 +1557,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 14100,
       "precio_unidad": 940,
-      "stock": 155
+      "stock": 153
     },
     {
       "codigo": 467,
@@ -1701,7 +1566,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 14100,
       "precio_unidad": 940,
-      "stock": 86
+      "stock": 75
     },
     {
       "codigo": 310,
@@ -1755,16 +1620,16 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 15740,
       "precio_unidad": 1311.67,
-      "stock": 13
+      "stock": 12
     },
     {
       "codigo": 1211,
       "descripcion": "LASAGNA SOL PAMPEANO  200G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "FIDEOS",
-      "precio_bulto": 15740,
-      "precio_unidad": 1311.67,
-      "stock": 31
+      "precio_bulto": 11780,
+      "precio_unidad": 1178,
+      "stock": 26
     },
     {
       "codigo": 1206,
@@ -1780,8 +1645,8 @@
       "descripcion": "TORTA DE ARROZ CROCANTE C/MIEL (Presentación x6u)",
       "linea": "ALMACEN",
       "sublinea": "FIESTAS",
-      "precio_bulto": 7070,
-      "precio_unidad": 1178.33,
+      "precio_bulto": 20800,
+      "precio_unidad": 1733.33,
       "stock": 86
     },
     {
@@ -1791,7 +1656,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30330,
       "precio_unidad": 1011,
-      "stock": 18
+      "stock": 17
     },
     {
       "codigo": 1050,
@@ -1800,7 +1665,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30330,
       "precio_unidad": 1011,
-      "stock": 37
+      "stock": 17
     },
     {
       "codigo": 1048,
@@ -1809,7 +1674,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30330,
       "precio_unidad": 1011,
-      "stock": 20
+      "stock": 10
     },
     {
       "codigo": 1049,
@@ -1818,7 +1683,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 25950,
       "precio_unidad": 1235.71,
-      "stock": 12
+      "stock": 6
     },
     {
       "codigo": 1051,
@@ -1854,7 +1719,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30440,
       "precio_unidad": 1087.14,
-      "stock": 166
+      "stock": 144
     },
     {
       "codigo": 1022,
@@ -1872,7 +1737,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16750,
       "precio_unidad": 1675,
-      "stock": 30
+      "stock": 63
     },
     {
       "codigo": 1021,
@@ -1897,42 +1762,6 @@
       "descripcion": "GALLETITAS CRIOLLITAS X3 (Presentación x22u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 15300,
-      "precio_unidad": 637.5,
-      "stock": 3
-    },
-    {
-      "codigo": 1099,
-      "descripcion": "GALLETITAS DELICIAS DE LA NONA CHOCOLATE (Presentación x24u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
-      "precio_bulto": 15300,
-      "precio_unidad": 637.5,
-      "stock": 2
-    },
-    {
-      "codigo": 1100,
-      "descripcion": "GALLETITAS DELICIAS DE LA NONA FRUTILLA (Presentación x24u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
-      "precio_bulto": 15300,
-      "precio_unidad": 637.5,
-      "stock": 0
-    },
-    {
-      "codigo": 1102,
-      "descripcion": "GALLETITAS DELICIAS DE LA NONA MUSSE DE CHOCOLATE (Presentación x24u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
-      "precio_bulto": 15300,
-      "precio_unidad": 637.5,
-      "stock": 1
-    },
-    {
-      "codigo": 1101,
-      "descripcion": "GALLETITAS DELICIAS DE LA NONA VAINILLA (Presentación x24u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
       "precio_bulto": 17290,
       "precio_unidad": 1440.83,
       "stock": 0
@@ -1944,7 +1773,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 18080,
       "precio_unidad": 1506.67,
-      "stock": 52
+      "stock": 39
     },
     {
       "codigo": 993,
@@ -1953,43 +1782,25 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16640,
       "precio_unidad": 1040,
-      "stock": 7
+      "stock": 4
     },
     {
       "codigo": 517,
       "descripcion": "GALLETITAS GAONA MANTECADITAS X220G (Presentación x16u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 22880,
-      "precio_unidad": 1271.11,
-      "stock": 31
-    },
-    {
-      "codigo": 928,
-      "descripcion": "GALLETITAS GAONA RECREO 300G (Presentación x18u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
       "precio_bulto": 29600,
       "precio_unidad": 2466.67,
-      "stock": 0
+      "stock": 31
     },
     {
       "codigo": 1225,
       "descripcion": "GALLETITAS MANA X3 (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 10160,
-      "precio_unidad": 725.71,
-      "stock": 3
-    },
-    {
-      "codigo": 497,
-      "descripcion": "GALLETITAS MEDIATARDE X315G (Presentación x14u)",
-      "linea": "ALMACEN",
-      "sublinea": "GALLETITAS",
       "precio_bulto": 64890,
       "precio_unidad": 1802.5,
-      "stock": 28
+      "stock": 3
     },
     {
       "codigo": 843,
@@ -1998,7 +1809,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16820,
       "precio_unidad": 1201.43,
-      "stock": 68
+      "stock": 47
     },
     {
       "codigo": 464,
@@ -2007,43 +1818,43 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 13930,
       "precio_unidad": 995,
-      "stock": 79
+      "stock": 65
     },
     {
       "codigo": 465,
       "descripcion": "GALLETITAS PASEO CRACKERS X300G (Presentación x14u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 85860,
-      "precio_unidad": 1431,
-      "stock": 21
+      "precio_bulto": 89730,
+      "precio_unidad": 1495.5,
+      "stock": 16
     },
     {
       "codigo": 1019,
       "descripcion": "GALLETITAS PEPITOS CLASICO (Presentación x60u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 25860,
-      "precio_unidad": 1616.25,
-      "stock": 66
+      "precio_bulto": 16700,
+      "precio_unidad": 1192.86,
+      "stock": 50
     },
     {
       "codigo": 913,
       "descripcion": "GALLETITAS SERRANAS  SANDWICH X3 (Presentación x16u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 16700,
-      "precio_unidad": 1192.86,
-      "stock": 69
+      "precio_bulto": 16220,
+      "precio_unidad": 579.29,
+      "stock": 17
     },
     {
       "codigo": 123,
       "descripcion": "GALLETITAS SERRANITAS X3 (Presentación x14u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 16700,
-      "precio_unidad": 1192.86,
-      "stock": 128
+      "precio_bulto": 16220,
+      "precio_unidad": 579.29,
+      "stock": 58
     },
     {
       "codigo": 513,
@@ -2061,7 +1872,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 23600,
       "precio_unidad": 1475,
-      "stock": 18
+      "stock": 0
     },
     {
       "codigo": 1266,
@@ -2070,7 +1881,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 14230,
       "precio_unidad": 1185.83,
-      "stock": 25
+      "stock": 9
     },
     {
       "codigo": 1166,
@@ -2097,7 +1908,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 14230,
       "precio_unidad": 1185.83,
-      "stock": 4
+      "stock": 3
     },
     {
       "codigo": 1237,
@@ -2106,7 +1917,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 18310,
       "precio_unidad": 653.93,
-      "stock": 18
+      "stock": 12
     },
     {
       "codigo": 715,
@@ -2160,7 +1971,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 20800,
       "precio_unidad": 1733.33,
-      "stock": 239
+      "stock": 238
     },
     {
       "codigo": 1207,
@@ -2169,7 +1980,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 20800,
       "precio_unidad": 1733.33,
-      "stock": 0
+      "stock": 6
     },
     {
       "codigo": 1208,
@@ -2178,7 +1989,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 17590,
       "precio_unidad": 1759,
-      "stock": 7
+      "stock": 5
     },
     {
       "codigo": 1068,
@@ -2196,7 +2007,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 17590,
       "precio_unidad": 1759,
-      "stock": 41
+      "stock": 39
     },
     {
       "codigo": 584,
@@ -2205,7 +2016,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 17590,
       "precio_unidad": 1759,
-      "stock": 19
+      "stock": 18
     },
     {
       "codigo": 1119,
@@ -2232,7 +2043,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 17550,
       "precio_unidad": 2193.75,
-      "stock": 92
+      "stock": 85
     },
     {
       "codigo": 1209,
@@ -2241,15 +2052,15 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 23660,
       "precio_unidad": 1314.44,
-      "stock": 14
+      "stock": 8
     },
     {
       "codigo": 1035,
       "descripcion": "VAINILLA SWEET X180G (Presentación x18u)",
       "linea": "ALMACEN",
       "sublinea": "GALLETITAS",
-      "precio_bulto": 23660,
-      "precio_unidad": 1314.44,
+      "precio_bulto": 11520,
+      "precio_unidad": 640,
       "stock": 1
     },
     {
@@ -2257,45 +2068,18 @@
       "descripcion": "CHOCOLATE NESTLE X25G (Presentación x18u)",
       "linea": "ALMACEN",
       "sublinea": "GOLOSINAS",
-      "precio_bulto": 11520,
-      "precio_unidad": 640,
-      "stock": 269
-    },
-    {
-      "codigo": 478,
-      "descripcion": "GRASA K`UMEI X1K (Presentación x12u)",
-      "linea": "ALMACEN",
-      "sublinea": "GRASA",
       "precio_bulto": 31420,
       "precio_unidad": 1571,
-      "stock": 20
+      "stock": 269
     },
     {
       "codigo": 492,
       "descripcion": "GRASA K`UMEI X500G (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "GRASA",
-      "precio_bulto": 31420,
-      "precio_unidad": 1571,
+      "precio_bulto": 9000,
+      "precio_unidad": 900,
       "stock": 20
-    },
-    {
-      "codigo": 954,
-      "descripcion": "HARINA CHACABUCO 000 X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "HARINA",
-      "precio_bulto": 12360,
-      "precio_unidad": 1236,
-      "stock": 7
-    },
-    {
-      "codigo": 380,
-      "descripcion": "HARINA CHACABUCO INTEGRAL X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "HARINA",
-      "precio_bulto": 9870,
-      "precio_unidad": 987,
-      "stock": 1
     },
     {
       "codigo": 978,
@@ -2308,48 +2092,48 @@
     },
     {
       "codigo": 652,
-      "descripcion": "HARINA PUREZA X1KG INTEGRAL (Presentación x10u)",
+      "descripcion": "HARINA PUREZA X1K INTEGRAL (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "HARINA",
-      "precio_bulto": 7400,
-      "precio_unidad": 740,
-      "stock": 7
+      "precio_bulto": 13780,
+      "precio_unidad": 1378,
+      "stock": 6
     },
     {
       "codigo": 100,
-      "descripcion": "HARINA VENADO TUERTO 000 X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "HARINA",
-      "precio_bulto": 9810,
-      "precio_unidad": 981,
-      "stock": 1.213
-    },
-    {
-      "codigo": 101,
-      "descripcion": "HARINA VENADO TUERTO 0000 X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "HARINA",
-      "precio_bulto": 8380,
-      "precio_unidad": 838,
-      "stock": 622
-    },
-    {
-      "codigo": 1281,
-      "descripcion": "HARINA VENADO TUERTO INTEGRAL X1K (Presentación x10u)",
-      "linea": "ALMACEN",
-      "sublinea": "HARINA",
-      "precio_bulto": 11430,
-      "precio_unidad": 1143,
-      "stock": 71
-    },
-    {
-      "codigo": 456,
-      "descripcion": "HARINA VENADO TUERTO LEUDANTE X1K (Presentación x10u)",
+      "descripcion": "HARINA VENADO TUERTO X1K 000 (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "HARINA",
       "precio_bulto": 87320,
       "precio_unidad": 1746.4,
-      "stock": 480
+      "stock": 1.116
+    },
+    {
+      "codigo": 101,
+      "descripcion": "HARINA VENADO TUERTO X1K 0000 (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 87320,
+      "precio_unidad": 1746.4,
+      "stock": 568
+    },
+    {
+      "codigo": 1281,
+      "descripcion": "HARINA VENADO TUERTO X1K INTEGRAL (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 87320,
+      "precio_unidad": 1746.4,
+      "stock": 71
+    },
+    {
+      "codigo": 456,
+      "descripcion": "HARINA VENADO TUERTO X1K LEUDANTE (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 5660,
+      "precio_unidad": 566,
+      "stock": 398
     },
     {
       "codigo": 528,
@@ -2358,15 +2142,15 @@
       "sublinea": "HARINA",
       "precio_bulto": 5660,
       "precio_unidad": 566,
-      "stock": 25
+      "stock": 17
     },
     {
       "codigo": 337,
       "descripcion": "POLENTA INDELMA X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "HARINA",
-      "precio_bulto": 30460,
-      "precio_unidad": 1015.33,
+      "precio_bulto": 34440,
+      "precio_unidad": 1148,
       "stock": 88
     },
     {
@@ -2374,9 +2158,9 @@
       "descripcion": "PRESTOPRONTA ARCOR X490G (Presentación x30u)",
       "linea": "ALMACEN",
       "sublinea": "HARINA",
-      "precio_bulto": 30460,
-      "precio_unidad": 1015.33,
-      "stock": 56
+      "precio_bulto": 9270,
+      "precio_unidad": 772.5,
+      "stock": 4
     },
     {
       "codigo": 996,
@@ -2385,7 +2169,7 @@
       "sublinea": "LATAS",
       "precio_bulto": 42900,
       "precio_unidad": 1787.5,
-      "stock": 19
+      "stock": 3
     },
     {
       "codigo": 1267,
@@ -2394,7 +2178,7 @@
       "sublinea": "LATAS",
       "precio_bulto": 21840,
       "precio_unidad": 1820,
-      "stock": 60
+      "stock": 54
     },
     {
       "codigo": 379,
@@ -2412,7 +2196,7 @@
       "sublinea": "LATAS",
       "precio_bulto": 39330,
       "precio_unidad": 1638.75,
-      "stock": 24
+      "stock": 12
     },
     {
       "codigo": 1233,
@@ -2437,17 +2221,17 @@
       "descripcion": "PICADILLO CHANGUITO (Presentación x24u)",
       "linea": "ALMACEN",
       "sublinea": "LATAS",
-      "precio_bulto": 15050,
-      "precio_unidad": 627.08,
-      "stock": 85
+      "precio_bulto": 15350,
+      "precio_unidad": 1918.75,
+      "stock": 131
     },
     {
       "codigo": 1066,
       "descripcion": "LECHE BAGGIO CHOCOLATADA X1L (Presentación x8u)",
       "linea": "ALMACEN",
       "sublinea": "LECHE",
-      "precio_bulto": 11450,
-      "precio_unidad": 636.11,
+      "precio_bulto": 25240,
+      "precio_unidad": 1051.67,
       "stock": 3
     },
     {
@@ -2455,9 +2239,9 @@
       "descripcion": "LECHE BAGGIO CHOCOLATADA X200CC (Presentación x18u)",
       "linea": "ALMACEN",
       "sublinea": "LECHE",
-      "precio_bulto": 25240,
-      "precio_unidad": 1051.67,
-      "stock": 0
+      "precio_bulto": 108300,
+      "precio_unidad": 9025,
+      "stock": 252
     },
     {
       "codigo": 1037,
@@ -2475,7 +2259,7 @@
       "sublinea": "LECHE",
       "precio_bulto": 127500,
       "precio_unidad": 10625,
-      "stock": 1
+      "stock": 9
     },
     {
       "codigo": 374,
@@ -2491,8 +2275,8 @@
       "descripcion": "LECHE EN POLVO NIDO 3 X800G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "LECHE",
-      "precio_bulto": 180780,
-      "precio_unidad": 15065,
+      "precio_bulto": 23570,
+      "precio_unidad": 1964.17,
       "stock": 17
     },
     {
@@ -2511,7 +2295,7 @@
       "sublinea": "LECHE",
       "precio_bulto": 33090,
       "precio_unidad": 1378.75,
-      "stock": 12
+      "stock": 10
     },
     {
       "codigo": 1170,
@@ -2545,8 +2329,8 @@
       "descripcion": "NESTUM TRIGO-MIEL X225G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "LECHE",
-      "precio_bulto": 76360,
-      "precio_unidad": 6363.33,
+      "precio_bulto": 12580,
+      "precio_unidad": 1258,
       "stock": 3
     },
     {
@@ -2574,7 +2358,7 @@
       "sublinea": "LEGUMBRES",
       "precio_bulto": 23220,
       "precio_unidad": 2322,
-      "stock": 46
+      "stock": 36
     },
     {
       "codigo": 1002,
@@ -2592,7 +2376,7 @@
       "sublinea": "LEGUMBRES",
       "precio_bulto": 18870,
       "precio_unidad": 1887,
-      "stock": 41
+      "stock": 32
     },
     {
       "codigo": 934,
@@ -2628,7 +2412,7 @@
       "sublinea": "LEGUMBRES",
       "precio_bulto": 32510,
       "precio_unidad": 3251,
-      "stock": 44
+      "stock": 43
     },
     {
       "codigo": 1000,
@@ -2644,18 +2428,27 @@
       "descripcion": "SEMOLA LA EGIPCIANA X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "LEGUMBRES",
-      "precio_bulto": 16350,
-      "precio_unidad": 1635,
-      "stock": 92
+      "precio_bulto": 10910,
+      "precio_unidad": 1091,
+      "stock": 89
     },
     {
       "codigo": 858,
       "descripcion": "MATE COCIDO LITORAL X25 (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "MATE COCIDOS",
+      "precio_bulto": 19000,
+      "precio_unidad": 791.67,
+      "stock": 19
+    },
+    {
+      "codigo": 1282,
+      "descripcion": "MATE COCIDO PAJARO AZUL (Presentación x24u)",
+      "linea": "ALMACEN",
+      "sublinea": "MATE COCIDOS",
       "precio_bulto": 12270,
       "precio_unidad": 1227,
-      "stock": 0
+      "stock": 380
     },
     {
       "codigo": 446,
@@ -2673,7 +2466,7 @@
       "sublinea": "MATE COCIDOS",
       "precio_bulto": 9110,
       "precio_unidad": 911,
-      "stock": 16
+      "stock": 8
     },
     {
       "codigo": 444,
@@ -2682,16 +2475,16 @@
       "sublinea": "MATE COCIDOS",
       "precio_bulto": 8200,
       "precio_unidad": 1640,
-      "stock": 94
+      "stock": 86
     },
     {
       "codigo": 443,
       "descripcion": "MATE COCIDO UNION X50 SOBRES (Presentación x5u)",
       "linea": "ALMACEN",
       "sublinea": "MATE COCIDOS",
-      "precio_bulto": 8200,
-      "precio_unidad": 1640,
-      "stock": 6
+      "precio_bulto": 27000,
+      "precio_unidad": 2250,
+      "stock": 9
     },
     {
       "codigo": 1123,
@@ -2736,7 +2529,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 33910,
       "precio_unidad": 2825.83,
-      "stock": 96
+      "stock": 87
     },
     {
       "codigo": 1216,
@@ -2754,7 +2547,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 48810,
       "precio_unidad": 4067.5,
-      "stock": 63
+      "stock": 61
     },
     {
       "codigo": 1218,
@@ -2763,7 +2556,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 24680,
       "precio_unidad": 2056.67,
-      "stock": 47
+      "stock": 42
     },
     {
       "codigo": 489,
@@ -2781,7 +2574,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 24680,
       "precio_unidad": 2056.67,
-      "stock": 87
+      "stock": 86
     },
     {
       "codigo": 488,
@@ -2808,7 +2601,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 16940,
       "precio_unidad": 1411.67,
-      "stock": 11
+      "stock": 6
     },
     {
       "codigo": 483,
@@ -2817,7 +2610,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 16940,
       "precio_unidad": 1411.67,
-      "stock": 61
+      "stock": 53
     },
     {
       "codigo": 484,
@@ -2826,7 +2619,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 21060,
       "precio_unidad": 1755,
-      "stock": 44
+      "stock": 33
     },
     {
       "codigo": 485,
@@ -2835,16 +2628,16 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 16940,
       "precio_unidad": 1411.67,
-      "stock": 51
+      "stock": 45
     },
     {
       "codigo": 482,
       "descripcion": "MERMELADAS DULCOR POTE X500G NARANJA (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "MERMELADAS",
-      "precio_bulto": 16940,
-      "precio_unidad": 1411.67,
-      "stock": 105
+      "precio_bulto": 21000,
+      "precio_unidad": 1750,
+      "stock": 102
     },
     {
       "codigo": 1088,
@@ -2853,7 +2646,7 @@
       "sublinea": "MIEL",
       "precio_bulto": 34500,
       "precio_unidad": 2875,
-      "stock": 0
+      "stock": 21
     },
     {
       "codigo": 1089,
@@ -2862,15 +2655,15 @@
       "sublinea": "MIEL",
       "precio_bulto": 4480,
       "precio_unidad": 4480,
-      "stock": 37
+      "stock": 24
     },
     {
       "codigo": 570,
       "descripcion": "MIEL PURA X500G (Presentación x1u)",
       "linea": "ALMACEN",
       "sublinea": "MIEL",
-      "precio_bulto": 4480,
-      "precio_unidad": 4480,
+      "precio_bulto": 25950,
+      "precio_unidad": 2162.5,
       "stock": 4
     },
     {
@@ -2887,9 +2680,18 @@
       "descripcion": "PURE DE PAPAS MAGGI X125G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "PURE DE PAPAS INSTANTANEO",
-      "precio_bulto": 27640,
-      "precio_unidad": 2303.33,
-      "stock": 21
+      "precio_bulto": 20540,
+      "precio_unidad": 855.83,
+      "stock": 6
+    },
+    {
+      "codigo": 1286,
+      "descripcion": "ARVEJAS DOÑA PUPA X500G (Presentación x24u)",
+      "linea": "ALMACEN",
+      "sublinea": "PURE DE TOMATE",
+      "precio_bulto": 8160,
+      "precio_unidad": 680,
+      "stock": 23
     },
     {
       "codigo": 1116,
@@ -2907,15 +2709,15 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 15330,
       "precio_unidad": 1277.5,
-      "stock": 207
+      "stock": 192
     },
     {
       "codigo": 451,
       "descripcion": "PURE DE TOMATE TETRA  LA CAMPAGNOLA X530G (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "PURE DE TOMATE",
-      "precio_bulto": 10120,
-      "precio_unidad": 843.33,
+      "precio_bulto": 9730,
+      "precio_unidad": 540.56,
       "stock": 3
     },
     {
@@ -2925,16 +2727,16 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 10800,
       "precio_unidad": 900,
-      "stock": 109
+      "stock": 238
     },
     {
       "codigo": 453,
       "descripcion": "PURE DE TOMATE TETRA DE LA HUERTA X530 (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "PURE DE TOMATE",
-      "precio_bulto": 10800,
-      "precio_unidad": 900,
-      "stock": 113
+      "precio_bulto": 34420,
+      "precio_unidad": 1434.17,
+      "stock": 291
     },
     {
       "codigo": 494,
@@ -2943,7 +2745,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 34420,
       "precio_unidad": 1434.17,
-      "stock": 3
+      "stock": 1
     },
     {
       "codigo": 525,
@@ -2961,7 +2763,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 34420,
       "precio_unidad": 1434.17,
-      "stock": 3
+      "stock": 0
     },
     {
       "codigo": 495,
@@ -2988,7 +2790,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 11810,
       "precio_unidad": 1476.25,
-      "stock": 341
+      "stock": 316
     },
     {
       "codigo": 437,
@@ -3013,9 +2815,9 @@
       "descripcion": "TOMATE TRITURADO GALLARDO BOT 950G (Presentación x8u)",
       "linea": "ALMACEN",
       "sublinea": "PURE DE TOMATE",
-      "precio_bulto": 12000,
-      "precio_unidad": 1500,
-      "stock": 28
+      "precio_bulto": 28680,
+      "precio_unidad": 1195,
+      "stock": 20
     },
     {
       "codigo": 1251,
@@ -3033,7 +2835,7 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 28240,
       "precio_unidad": 941.33,
-      "stock": 292
+      "stock": 176
     },
     {
       "codigo": 118,
@@ -3042,7 +2844,7 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 9250,
       "precio_unidad": 925,
-      "stock": 259
+      "stock": 189
     },
     {
       "codigo": 119,
@@ -3078,16 +2880,16 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 9700,
       "precio_unidad": 485,
-      "stock": 24
+      "stock": 15
     },
     {
       "codigo": 1186,
       "descripcion": "SAL TRESAL FINA X500G (Presentación x20u)",
       "linea": "ALMACEN",
       "sublinea": "SALES DE COCINA",
-      "precio_bulto": 9700,
-      "precio_unidad": 485,
-      "stock": 69
+      "precio_bulto": 12500,
+      "precio_unidad": 12500,
+      "stock": 32
     },
     {
       "codigo": 602,
@@ -3105,7 +2907,7 @@
       "sublinea": "SOPAS",
       "precio_bulto": 12500,
       "precio_unidad": 12500,
-      "stock": 22
+      "stock": 18
     },
     {
       "codigo": 600,
@@ -3114,7 +2916,7 @@
       "sublinea": "SOPAS",
       "precio_bulto": 14960,
       "precio_unidad": 1496,
-      "stock": 17
+      "stock": 9
     },
     {
       "codigo": 507,
@@ -3141,7 +2943,7 @@
       "sublinea": "SOPAS",
       "precio_bulto": 14960,
       "precio_unidad": 1496,
-      "stock": 6
+      "stock": 0
     },
     {
       "codigo": 504,
@@ -3229,8 +3031,8 @@
       "descripcion": "SOPAS QUICK KNORR X5 SOBRS VEGETALES (Presentación x1u)",
       "linea": "ALMACEN",
       "sublinea": "SOPAS",
-      "precio_bulto": 1960,
-      "precio_unidad": 1960,
+      "precio_bulto": 8150,
+      "precio_unidad": 815,
       "stock": 4
     },
     {
@@ -3240,7 +3042,7 @@
       "sublinea": "TE",
       "precio_bulto": 32290,
       "precio_unidad": 1614.5,
-      "stock": 4
+      "stock": 12
     },
     {
       "codigo": 677,
@@ -3249,7 +3051,7 @@
       "sublinea": "TE",
       "precio_bulto": 9770,
       "precio_unidad": 1628.33,
-      "stock": 54
+      "stock": 52
     },
     {
       "codigo": 678,
@@ -3258,7 +3060,7 @@
       "sublinea": "TE",
       "precio_bulto": 7830,
       "precio_unidad": 1305,
-      "stock": 4
+      "stock": 1
     },
     {
       "codigo": 682,
@@ -3267,7 +3069,7 @@
       "sublinea": "TE",
       "precio_bulto": 15670,
       "precio_unidad": 2611.67,
-      "stock": 5
+      "stock": 3
     },
     {
       "codigo": 679,
@@ -3276,7 +3078,7 @@
       "sublinea": "TE",
       "precio_bulto": 11260,
       "precio_unidad": 1876.67,
-      "stock": 12
+      "stock": 9
     },
     {
       "codigo": 680,
@@ -3294,15 +3096,15 @@
       "sublinea": "TE",
       "precio_bulto": 6680,
       "precio_unidad": 668,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 447,
       "descripcion": "TE TARAGUI X25 SOBRES (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "TE",
-      "precio_bulto": 6680,
-      "precio_unidad": 668,
+      "precio_bulto": 14460,
+      "precio_unidad": 1205,
       "stock": 60
     },
     {
@@ -3337,8 +3139,8 @@
       "descripcion": "TOSTADAS RIERA CLASICA (Presentación x18u)",
       "linea": "ALMACEN",
       "sublinea": "TOSTADAS",
-      "precio_bulto": 20730,
-      "precio_unidad": 1151.67,
+      "precio_bulto": 8170,
+      "precio_unidad": 4085,
       "stock": 1
     },
     {
@@ -3357,25 +3159,25 @@
       "sublinea": "VINAGRE",
       "precio_bulto": 15100,
       "precio_unidad": 1258.33,
-      "stock": 70
+      "stock": 67
     },
     {
       "codigo": 105,
       "descripcion": "VINAGRE HALCONERO DE ALCOHOL X500CC (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "VINAGRE",
-      "precio_bulto": 18820,
-      "precio_unidad": 6273.33,
-      "stock": 482
+      "precio_bulto": 17810,
+      "precio_unidad": 1484.17,
+      "stock": 467
     },
     {
       "codigo": 103,
       "descripcion": "VINAGRE HALCONERO DE ALCOHOL X5L (Presentación x3u)",
       "linea": "ALMACEN",
       "sublinea": "VINAGRE",
-      "precio_bulto": 17810,
-      "precio_unidad": 1484.17,
-      "stock": 43
+      "precio_bulto": 29590,
+      "precio_unidad": 2465.83,
+      "stock": 42
     },
     {
       "codigo": 104,
@@ -3384,7 +3186,7 @@
       "sublinea": "VINAGRE",
       "precio_bulto": 29590,
       "precio_unidad": 2465.83,
-      "stock": 19
+      "stock": 17
     },
     {
       "codigo": 107,
@@ -3393,15 +3195,15 @@
       "sublinea": "VINAGRE",
       "precio_bulto": 37370,
       "precio_unidad": 3114.17,
-      "stock": 124
+      "stock": 116
     },
     {
       "codigo": 106,
       "descripcion": "VINAGRE HALCONERO DE MANZANA X930CC (Presentación x12u)",
       "linea": "ALMACEN",
       "sublinea": "VINAGRE",
-      "precio_bulto": 37370,
-      "precio_unidad": 3114.17,
+      "precio_bulto": 15890,
+      "precio_unidad": 1589,
       "stock": 11
     },
     {
@@ -3411,7 +3213,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 16150,
       "precio_unidad": 1615,
-      "stock": 13
+      "stock": 10
     },
     {
       "codigo": 1243,
@@ -3420,7 +3222,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 14710,
       "precio_unidad": 1471,
-      "stock": 8
+      "stock": 0
     },
     {
       "codigo": 417,
@@ -3438,7 +3240,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 21100,
       "precio_unidad": 1758.33,
-      "stock": 76
+      "stock": 68
     },
     {
       "codigo": 548,
@@ -3456,7 +3258,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 21610,
       "precio_unidad": 1800.83,
-      "stock": 13
+      "stock": 12
     },
     {
       "codigo": 547,
@@ -3501,7 +3303,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 35320,
       "precio_unidad": 3532,
-      "stock": 68
+      "stock": 61
     },
     {
       "codigo": 1244,
@@ -3528,7 +3330,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 33610,
       "precio_unidad": 3361,
-      "stock": 52
+      "stock": 49
     },
     {
       "codigo": 771,
@@ -3537,7 +3339,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 19200,
       "precio_unidad": 3840,
-      "stock": 4
+      "stock": 3
     },
     {
       "codigo": 1234,
@@ -3546,15 +3348,15 @@
       "sublinea": "YERBAS",
       "precio_bulto": 16530,
       "precio_unidad": 1653,
-      "stock": 41
+      "stock": 37
     },
     {
       "codigo": 772,
       "descripcion": "YERBA SINCERIDAD X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "YERBAS",
-      "precio_bulto": 17470,
-      "precio_unidad": 1747,
+      "precio_bulto": 11380,
+      "precio_unidad": 1138,
       "stock": 1
     },
     {
@@ -3562,27 +3364,27 @@
       "descripcion": "YERBA TARAGUI X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "YERBAS",
-      "precio_bulto": 17470,
-      "precio_unidad": 1747,
-      "stock": 61
+      "precio_bulto": 6740,
+      "precio_unidad": 3370,
+      "stock": 29
     },
     {
       "codigo": 261,
       "descripcion": "YERBA UNION X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "YERBAS",
-      "precio_bulto": 11380,
-      "precio_unidad": 1138,
-      "stock": 16
+      "precio_bulto": 6740,
+      "precio_unidad": 3370,
+      "stock": 2
     },
     {
       "codigo": 941,
       "descripcion": "YERBA YERUTI X500G (Presentación x10u)",
       "linea": "ALMACEN",
       "sublinea": "YERBAS",
-      "precio_bulto": 11380,
-      "precio_unidad": 1138,
-      "stock": 40
+      "precio_bulto": 6740,
+      "precio_unidad": 3370,
+      "stock": 19
     },
     {
       "codigo": 116,
@@ -3592,15 +3394,6 @@
       "precio_bulto": 48000,
       "precio_unidad": 12000,
       "stock": 0
-    },
-    {
-      "codigo": 126,
-      "descripcion": "ESQUELETOS DE CERVEZA (Presentación x1u)",
-      "linea": "BEBIDAS",
-      "sublinea": "",
-      "precio_bulto": 19630,
-      "precio_unidad": 3271.67,
-      "stock": 177
     },
     {
       "codigo": 125,
@@ -3625,9 +3418,18 @@
       "descripcion": "GASEOSA PEPSI 3L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "",
-      "precio_bulto": 11610,
-      "precio_unidad": 1935,
-      "stock": 10
+      "precio_bulto": 13390,
+      "precio_unidad": 13390,
+      "stock": 148
+    },
+    {
+      "codigo": 222,
+      "descripcion": "GASEOSA SEVEN UP 3L (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "",
+      "precio_bulto": 13390,
+      "precio_unidad": 13390,
+      "stock": 153
     },
     {
       "codigo": 1163,
@@ -3652,8 +3454,8 @@
       "descripcion": "PROMO FERNET BUHERO X700 + 2 COCAS X1,75ML (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "",
-      "precio_bulto": 11300,
-      "precio_unidad": 11300,
+      "precio_bulto": 15980,
+      "precio_unidad": 2663.33,
       "stock": 0
     },
     {
@@ -3706,8 +3508,8 @@
       "descripcion": "VINO BENJAMIN MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "",
-      "precio_bulto": 16260,
-      "precio_unidad": 2710,
+      "precio_bulto": 25600,
+      "precio_unidad": 4266.67,
       "stock": 38
     },
     {
@@ -3715,8 +3517,8 @@
       "descripcion": "VINO COLON 750CC CABERNET SUAVIGNON (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "",
-      "precio_bulto": 16260,
-      "precio_unidad": 2710,
+      "precio_bulto": 25600,
+      "precio_unidad": 4266.67,
       "stock": 47
     },
     {
@@ -3780,15 +3582,15 @@
       "sublinea": "",
       "precio_bulto": 63560,
       "precio_unidad": 10593.33,
-      "stock": 42
+      "stock": 3
     },
     {
       "codigo": 463,
       "descripcion": "WHISKY BLENDER PRIDE X1L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "",
-      "precio_bulto": 63560,
-      "precio_unidad": 10593.33,
+      "precio_bulto": 5410,
+      "precio_unidad": 450.83,
       "stock": 0
     },
     {
@@ -3823,17 +3625,17 @@
       "descripcion": "AGUA SIERRA DE LOS PADRES X1,5L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA MINERAL",
-      "precio_bulto": 5120,
-      "precio_unidad": 853.33,
-      "stock": 14
+      "precio_bulto": 4990,
+      "precio_unidad": 831.67,
+      "stock": 13
     },
     {
       "codigo": 738,
       "descripcion": "AGUA SIERRA DE LOS PADRES X2L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA MINERAL",
-      "precio_bulto": 5730,
-      "precio_unidad": 2865,
+      "precio_bulto": 5610,
+      "precio_unidad": 2805,
       "stock": 99
     },
     {
@@ -3904,36 +3706,9 @@
       "descripcion": "AGUA  SABORIZADA X1,5L PERA (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 6240,
-      "precio_unidad": 1040,
+      "precio_bulto": 7840,
+      "precio_unidad": 1306.67,
       "stock": 0
-    },
-    {
-      "codigo": 1220,
-      "descripcion": "AGUA SABORIZADA BIO FRESH X1,5L MANZANA (Presentación x6u)",
-      "linea": "BEBIDAS",
-      "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 6240,
-      "precio_unidad": 1040,
-      "stock": 9
-    },
-    {
-      "codigo": 1222,
-      "descripcion": "AGUA SABORIZADA BIO FRESH X1,5L NARANJA (Presentación x6u)",
-      "linea": "BEBIDAS",
-      "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 6240,
-      "precio_unidad": 1040,
-      "stock": 0
-    },
-    {
-      "codigo": 1221,
-      "descripcion": "AGUA SABORIZADA BIO FRESH X1,5L POMELO (Presentación x6u)",
-      "linea": "BEBIDAS",
-      "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 6240,
-      "precio_unidad": 1040,
-      "stock": 6
     },
     {
       "codigo": 658,
@@ -3969,7 +3744,7 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 7840,
       "precio_unidad": 1306.67,
-      "stock": 30
+      "stock": 42
     },
     {
       "codigo": 900,
@@ -3985,9 +3760,9 @@
       "descripcion": "AGUA SABORIZADA FRESH X1,5L POMELO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 7850,
-      "precio_unidad": 1308.33,
-      "stock": 54
+      "precio_bulto": 11080,
+      "precio_unidad": 1846.67,
+      "stock": 6
     },
     {
       "codigo": 1086,
@@ -4050,7 +3825,7 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 7860,
       "precio_unidad": 1310,
-      "stock": 36
+      "stock": 64
     },
     {
       "codigo": 422,
@@ -4059,24 +3834,24 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 7860,
       "precio_unidad": 1310,
-      "stock": 114
+      "stock": 94
     },
     {
       "codigo": 421,
       "descripcion": "AGUA SABORIZADA VIDA X1,5L POMELO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 7860,
-      "precio_unidad": 1310,
-      "stock": 46
+      "precio_bulto": 10370,
+      "precio_unidad": 1296.25,
+      "stock": 31
     },
     {
       "codigo": 951,
       "descripcion": "JUGO BAGGIO FRESH X1L DURAZNO (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 10610,
-      "precio_unidad": 1326.25,
+      "precio_bulto": 10370,
+      "precio_unidad": 1296.25,
       "stock": 0
     },
     {
@@ -4093,8 +3868,8 @@
       "descripcion": "JUGO BAGGIO FRESH X200 MULTIFRUTA (Presentación x18u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 14640,
-      "precio_unidad": 1830,
+      "precio_bulto": 14300,
+      "precio_unidad": 1787.5,
       "stock": 14
     },
     {
@@ -4102,45 +3877,45 @@
       "descripcion": "JUGO BAGGIO X1L DURAZNO (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 14640,
-      "precio_unidad": 1830,
-      "stock": 12
+      "precio_bulto": 14300,
+      "precio_unidad": 1787.5,
+      "stock": 114
     },
     {
       "codigo": 874,
       "descripcion": "JUGO BAGGIO X1L MULTIFRUTA (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 14640,
-      "precio_unidad": 1830,
-      "stock": 20
+      "precio_bulto": 14300,
+      "precio_unidad": 1787.5,
+      "stock": 0
     },
     {
       "codigo": 693,
       "descripcion": "JUGO BAGGIO X1L NARANJA (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 9720,
-      "precio_unidad": 540,
-      "stock": 10
+      "precio_bulto": 9500,
+      "precio_unidad": 527.78,
+      "stock": 9
     },
     {
       "codigo": 470,
       "descripcion": "JUGO BAGGIO X200 MULTIFRUTA (Presentación x18u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 9720,
-      "precio_unidad": 540,
-      "stock": 67
+      "precio_bulto": 9500,
+      "precio_unidad": 527.78,
+      "stock": 261
     },
     {
       "codigo": 472,
       "descripcion": "JUGO BAGGIO X200ML DURAZNO (Presentación x18u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 9720,
-      "precio_unidad": 540,
-      "stock": 19
+      "precio_bulto": 9500,
+      "precio_unidad": 527.78,
+      "stock": 44
     },
     {
       "codigo": 471,
@@ -4165,8 +3940,8 @@
       "descripcion": "JUGO PURO SOL TETRA X1L (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "AGUA SABORIZADA",
-      "precio_bulto": 21950,
-      "precio_unidad": 1829.17,
+      "precio_bulto": 17970,
+      "precio_unidad": 2995,
       "stock": 26
     },
     {
@@ -4194,7 +3969,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 66450,
       "precio_unidad": 11075,
-      "stock": 257
+      "stock": 256
     },
     {
       "codigo": 797,
@@ -4230,7 +4005,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 92740,
       "precio_unidad": 7728.33,
-      "stock": 0
+      "stock": 24
     },
     {
       "codigo": 370,
@@ -4284,7 +4059,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 59780,
       "precio_unidad": 14945,
-      "stock": 28
+      "stock": 22
     },
     {
       "codigo": 1047,
@@ -4293,7 +4068,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 46800,
       "precio_unidad": 11700,
-      "stock": 3
+      "stock": 1
     },
     {
       "codigo": 1203,
@@ -4347,15 +4122,15 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 16100,
       "precio_unidad": 1341.67,
-      "stock": 36
+      "stock": 20
     },
     {
       "codigo": 333,
       "descripcion": "APERITIVO TACONI X1,5L BLANCO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 85230,
-      "precio_unidad": 14205,
+      "precio_bulto": 114350,
+      "precio_unidad": 19058.33,
       "stock": 11
     },
     {
@@ -4363,8 +4138,8 @@
       "descripcion": "APERITIVO TACONI X1,5L LIMON (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 85230,
-      "precio_unidad": 14205,
+      "precio_bulto": 18410,
+      "precio_unidad": 3068.33,
       "stock": 0
     },
     {
@@ -4374,7 +4149,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 17970,
       "precio_unidad": 2995,
-      "stock": 0
+      "stock": 6
     },
     {
       "codigo": 829,
@@ -4410,7 +4185,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 211260,
       "precio_unidad": 17605,
-      "stock": 2
+      "stock": 24
     },
     {
       "codigo": 130,
@@ -4419,7 +4194,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 103540,
       "precio_unidad": 8628.33,
-      "stock": 5
+      "stock": 14
     },
     {
       "codigo": 249,
@@ -4437,7 +4212,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 50550,
       "precio_unidad": 8425,
-      "stock": 4
+      "stock": 10
     },
     {
       "codigo": 540,
@@ -4446,7 +4221,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 44140,
       "precio_unidad": 11035,
-      "stock": 13
+      "stock": 44
     },
     {
       "codigo": 1227,
@@ -4480,8 +4255,8 @@
       "descripcion": "GIN GORDON`S X473CC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 42530,
-      "precio_unidad": 3544.17,
+      "precio_bulto": 41540,
+      "precio_unidad": 3461.67,
       "stock": 0
     },
     {
@@ -4498,9 +4273,18 @@
       "descripcion": "GRANADINA CUSENIER X750CC (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
+      "precio_bulto": 42360,
+      "precio_unidad": 7060,
+      "stock": 1
+    },
+    {
+      "codigo": 1287,
+      "descripcion": "LICOR LEGUI X750 (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "APERITIVOS",
       "precio_bulto": 14000,
       "precio_unidad": 14000,
-      "stock": 1
+      "stock": 11
     },
     {
       "codigo": 1154,
@@ -4534,8 +4318,8 @@
       "descripcion": "PETACA DE LICOR X200CC CAFE AL COÑAC (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 15210,
-      "precio_unidad": 1267.5,
+      "precio_bulto": 14850,
+      "precio_unidad": 1237.5,
       "stock": 108
     },
     {
@@ -4543,9 +4327,9 @@
       "descripcion": "PETACA DE LICOR X200CC CHOCOLATE (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 15210,
-      "precio_unidad": 1267.5,
-      "stock": 23
+      "precio_bulto": 14850,
+      "precio_unidad": 1237.5,
+      "stock": 19
     },
     {
       "codigo": 572,
@@ -4633,8 +4417,8 @@
       "descripcion": "WHISKY PREMIUM X750CC (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "APERITIVOS",
-      "precio_bulto": 61630,
-      "precio_unidad": 5135.83,
+      "precio_bulto": 6260,
+      "precio_unidad": 6260,
       "stock": 23
     },
     {
@@ -4651,8 +4435,8 @@
       "descripcion": "CERVEZA AMSTEL LAGER X473X6 (Presentación x4u)",
       "linea": "BEBIDAS",
       "sublinea": "CERVEZAS",
-      "precio_bulto": 42350,
-      "precio_unidad": 10587.5,
+      "precio_bulto": 43830,
+      "precio_unidad": 10957.5,
       "stock": 0
     },
     {
@@ -4660,18 +4444,9 @@
       "descripcion": "CERVEZA CORONA 6X330CC (Presentación x4u)",
       "linea": "BEBIDAS",
       "sublinea": "CERVEZAS",
-      "precio_bulto": 39200,
-      "precio_unidad": 9800,
-      "stock": 0
-    },
-    {
-      "codigo": 1191,
-      "descripcion": "CERVEZA CORONA LATA (Presentación x4u)",
-      "linea": "BEBIDAS",
-      "sublinea": "CERVEZAS",
       "precio_bulto": 51840,
       "precio_unidad": 4320,
-      "stock": 2
+      "stock": 0
     },
     {
       "codigo": 397,
@@ -4698,7 +4473,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 97500,
       "precio_unidad": 24375,
-      "stock": 1
+      "stock": 0
     },
     {
       "codigo": 1276,
@@ -4707,7 +4482,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 64980,
       "precio_unidad": 16245,
-      "stock": 0
+      "stock": 4
     },
     {
       "codigo": 1109,
@@ -4716,7 +4491,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 66790,
       "precio_unidad": 16697.5,
-      "stock": 0
+      "stock": 2
     },
     {
       "codigo": 399,
@@ -4725,7 +4500,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 32140,
       "precio_unidad": 8035,
-      "stock": 11
+      "stock": 9
     },
     {
       "codigo": 947,
@@ -4739,15 +4514,6 @@
     {
       "codigo": 524,
       "descripcion": "CERVEZA HEINEKEN X1L (Presentación x12u)",
-      "linea": "BEBIDAS",
-      "sublinea": "CERVEZAS",
-      "precio_bulto": 28480,
-      "precio_unidad": 2373.33,
-      "stock": 0
-    },
-    {
-      "codigo": 286,
-      "descripcion": "CERVEZA IGUANA X1L (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "CERVEZAS",
       "precio_bulto": 48010,
@@ -4815,7 +4581,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 46880,
       "precio_unidad": 11720,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 970,
@@ -4863,21 +4629,12 @@
       "stock": 0
     },
     {
-      "codigo": 479,
-      "descripcion": "CERVEZA MILLER BOT X600ML (Presentación x12u)",
-      "linea": "BEBIDAS",
-      "sublinea": "CERVEZAS",
-      "precio_bulto": 30240,
-      "precio_unidad": 2520,
-      "stock": 14
-    },
-    {
       "codigo": 596,
       "descripcion": "CERVEZA SALTA CAUTIVA IPA X473X6 (Presentación x4u)",
       "linea": "BEBIDAS",
       "sublinea": "CERVEZAS",
-      "precio_bulto": 38400,
-      "precio_unidad": 3200,
+      "precio_bulto": 37490,
+      "precio_unidad": 3124.17,
       "stock": 16
     },
     {
@@ -4905,7 +4662,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 37900,
       "precio_unidad": 3158.33,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 449,
@@ -4923,7 +4680,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 42830,
       "precio_unidad": 10707.5,
-      "stock": 11
+      "stock": 2
     },
     {
       "codigo": 1277,
@@ -4932,29 +4689,11 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 58890,
       "precio_unidad": 14722.5,
-      "stock": 0
+      "stock": 2
     },
     {
       "codigo": 550,
       "descripcion": "CERVEZA SCHNEIDER X710 (Presentación x4u)",
-      "linea": "BEBIDAS",
-      "sublinea": "CERVEZAS",
-      "precio_bulto": 58890,
-      "precio_unidad": 14722.5,
-      "stock": 0
-    },
-    {
-      "codigo": 1091,
-      "descripcion": "CERVEZA STELLA LATA X473 S/ALCOHOL (Presentación x4u)",
-      "linea": "BEBIDAS",
-      "sublinea": "CERVEZAS",
-      "precio_bulto": 51200,
-      "precio_unidad": 12800,
-      "stock": 8
-    },
-    {
-      "codigo": 981,
-      "descripcion": "CERVEZA STELLA NOIRE LATA X473 (Presentación x4u)",
       "linea": "BEBIDAS",
       "sublinea": "CERVEZAS",
       "precio_bulto": 54900,
@@ -4993,9 +4732,9 @@
       "descripcion": "CHAMPAGNA BARON B EXTRA BRUT (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "CHAMPAGNE",
-      "precio_bulto": 85350,
-      "precio_unidad": 14225,
-      "stock": 6
+      "precio_bulto": 114340,
+      "precio_unidad": 19056.67,
+      "stock": 0
     },
     {
       "codigo": 903,
@@ -5020,8 +4759,8 @@
       "descripcion": "CHAMPAGNE SALENTEIN X750MM (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "CHAMPAGNE",
-      "precio_bulto": 59670,
-      "precio_unidad": 9945,
+      "precio_bulto": 8190,
+      "precio_unidad": 1365,
       "stock": 1
     },
     {
@@ -5040,7 +4779,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 8190,
       "precio_unidad": 1365,
-      "stock": 3
+      "stock": 9
     },
     {
       "codigo": 1137,
@@ -5065,8 +4804,8 @@
       "descripcion": "GASEOSA COCA COLA RET ZERO 2L (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 17900,
-      "precio_unidad": 2237.5,
+      "precio_bulto": 28300,
+      "precio_unidad": 4716.67,
       "stock": 0
     },
     {
@@ -5076,7 +4815,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 28300,
       "precio_unidad": 4716.67,
-      "stock": 12
+      "stock": 0
     },
     {
       "codigo": 735,
@@ -5085,7 +4824,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 26760,
       "precio_unidad": 3345,
-      "stock": 1
+      "stock": 6
     },
     {
       "codigo": 609,
@@ -5121,7 +4860,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 13
+      "stock": 1
     },
     {
       "codigo": 243,
@@ -5130,7 +4869,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 27
+      "stock": 15
     },
     {
       "codigo": 246,
@@ -5148,7 +4887,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 74
+      "stock": 59
     },
     {
       "codigo": 248,
@@ -5166,7 +4905,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 8
+      "stock": 13
     },
     {
       "codigo": 732,
@@ -5175,7 +4914,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9030,
       "precio_unidad": 2257.5,
-      "stock": 16
+      "stock": 10
     },
     {
       "codigo": 1247,
@@ -5200,53 +4939,53 @@
       "descripcion": "GASEOSA CUNNINGTON X3L POMELO (Presentación x4u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 11780,
-      "precio_unidad": 1963.33,
-      "stock": 15
+      "precio_bulto": 9030,
+      "precio_unidad": 2257.5,
+      "stock": 11
     },
     {
       "codigo": 277,
       "descripcion": "GASEOSA DOBLE COLA X3L COLA (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 11780,
-      "precio_unidad": 1963.33,
-      "stock": 361
+      "precio_bulto": 3900,
+      "precio_unidad": 650,
+      "stock": 187
     },
     {
       "codigo": 278,
       "descripcion": "GASEOSA DOBLE COLA X3L LIMA LIMON (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 11780,
-      "precio_unidad": 1963.33,
-      "stock": 121
+      "precio_bulto": 19120,
+      "precio_unidad": 2390,
+      "stock": 97
     },
     {
       "codigo": 279,
       "descripcion": "GASEOSA DOBLE COLA X3L NARANJA (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 11780,
-      "precio_unidad": 1963.33,
-      "stock": 56
+      "precio_bulto": 18360,
+      "precio_unidad": 2295,
+      "stock": 44
     },
     {
       "codigo": 431,
       "descripcion": "GASEOSA DOBLE COLA X3L P.BLANCO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 11780,
-      "precio_unidad": 1963.33,
-      "stock": 35
+      "precio_bulto": 18360,
+      "precio_unidad": 2295,
+      "stock": 28
     },
     {
       "codigo": 280,
       "descripcion": "GASEOSA DOBLE COLA X3L POMELO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 3900,
-      "precio_unidad": 650,
+      "precio_bulto": 18360,
+      "precio_unidad": 2295,
       "stock": 27
     },
     {
@@ -5265,7 +5004,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 5160,
       "precio_unidad": 5160,
-      "stock": 6
+      "stock": 0
     },
     {
       "codigo": 664,
@@ -5281,27 +5020,18 @@
       "descripcion": "GASEOSA FANTA X1,25 VIDRIO (Presentación x8u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 17900,
-      "precio_unidad": 2237.5,
+      "precio_bulto": 6000,
+      "precio_unidad": 1000,
       "stock": 4
-    },
-    {
-      "codigo": 1105,
-      "descripcion": "GASEOSA MAGNA X2,25L TONICA (Presentación x6u)",
-      "linea": "BEBIDAS",
-      "sublinea": "GASEOSAS",
-      "precio_bulto": 15390,
-      "precio_unidad": 2565,
-      "stock": 12
     },
     {
       "codigo": 250,
       "descripcion": "GASEOSA PRITTY X3L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 6000,
-      "precio_unidad": 1000,
-      "stock": 259
+      "precio_bulto": 13830,
+      "precio_unidad": 2305,
+      "stock": 79
     },
     {
       "codigo": 876,
@@ -5355,7 +5085,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 26760,
       "precio_unidad": 3345,
-      "stock": 1
+      "stock": 6
     },
     {
       "codigo": 196,
@@ -5373,7 +5103,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9550,
       "precio_unidad": 1591.67,
-      "stock": 5
+      "stock": 1
     },
     {
       "codigo": 973,
@@ -5382,7 +5112,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9550,
       "precio_unidad": 1591.67,
-      "stock": 36
+      "stock": 27
     },
     {
       "codigo": 976,
@@ -5391,7 +5121,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9550,
       "precio_unidad": 1591.67,
-      "stock": 15
+      "stock": 12
     },
     {
       "codigo": 974,
@@ -5400,16 +5130,16 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9550,
       "precio_unidad": 1591.67,
-      "stock": 23
+      "stock": 20
     },
     {
       "codigo": 975,
       "descripcion": "GASEOSA WINNERS X3L POMELO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 9550,
-      "precio_unidad": 1591.67,
-      "stock": 59
+      "precio_bulto": 2000,
+      "precio_unidad": 2000,
+      "stock": 50
     },
     {
       "codigo": 579,
@@ -5425,8 +5155,8 @@
       "descripcion": "VASO PRITTY (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "GASEOSAS",
-      "precio_bulto": 2000,
-      "precio_unidad": 2000,
+      "precio_bulto": 16230,
+      "precio_unidad": 1352.5,
       "stock": 10
     },
     {
@@ -5452,8 +5182,8 @@
       "descripcion": "JUGO DE LIMON MINERVA X500ML (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGO DE LIMON",
-      "precio_bulto": 31180,
-      "precio_unidad": 2598.33,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 3
     },
     {
@@ -5461,8 +5191,8 @@
       "descripcion": "JUGO EN POLVO ARCOR ANANA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 56
     },
     {
@@ -5470,8 +5200,8 @@
       "descripcion": "JUGO EN POLVO ARCOR DURAZNO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 12
     },
     {
@@ -5479,8 +5209,8 @@
       "descripcion": "JUGO EN POLVO ARCOR FRUTILLA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48960,
-      "precio_unidad": 4080,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 38
     },
     {
@@ -5488,18 +5218,18 @@
       "descripcion": "JUGO EN POLVO ARCOR LIMONADA 18X18G (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
-      "stock": 10
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
+      "stock": 9
     },
     {
       "codigo": 416,
       "descripcion": "JUGO EN POLVO ARCOR MANZANA 18X18G (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
-      "stock": 33
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
+      "stock": 32
     },
     {
       "codigo": 415,
@@ -5508,15 +5238,15 @@
       "sublinea": "JUGOS EN POLVO",
       "precio_bulto": 47810,
       "precio_unidad": 3984.17,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 228,
       "descripcion": "JUGO EN POLVO ARCOR NARANJA 18X18G (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48960,
-      "precio_unidad": 4080,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 7
     },
     {
@@ -5524,17 +5254,17 @@
       "descripcion": "JUGO EN POLVO ARCOR NARANJA BANANA 18X18G (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
-      "stock": 70
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
+      "stock": 69
     },
     {
       "codigo": 917,
       "descripcion": "JUGO EN POLVO ARCOR NARANJA DULCE (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48960,
-      "precio_unidad": 4080,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 41
     },
     {
@@ -5542,8 +5272,8 @@
       "descripcion": "JUGO EN POLVO ARCOR NARANJA MANGO 18X18G (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 23
     },
     {
@@ -5551,8 +5281,8 @@
       "descripcion": "JUGO EN POLVO ARCOR NARANJA/DURAZNO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 48950,
-      "precio_unidad": 4079.17,
+      "precio_bulto": 47810,
+      "precio_unidad": 3984.17,
       "stock": 142
     },
     {
@@ -5560,8 +5290,8 @@
       "descripcion": "JUGO EN POLVO ARCOR POMELO ROSADO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 47810,
-      "precio_unidad": 3984.17,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 30
     },
     {
@@ -5569,8 +5299,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS ANANA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 2
     },
     {
@@ -5578,8 +5308,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS FRUTILLA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 2
     },
     {
@@ -5587,8 +5317,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS LIMON X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 0
     },
     {
@@ -5596,8 +5326,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS MANZANA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 1
     },
     {
@@ -5605,8 +5335,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS MARACUYA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 1
     },
     {
@@ -5623,8 +5353,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS NARANJA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5250,
-      "precio_unidad": 5250,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 2
     },
     {
@@ -5632,8 +5362,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS NARANJA-BANANA X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 0
     },
     {
@@ -5641,8 +5371,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS NARANJA-DURAZNO X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 1
     },
     {
@@ -5650,8 +5380,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS NARANJA-MANGO X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 5260,
-      "precio_unidad": 5260,
+      "precio_bulto": 5130,
+      "precio_unidad": 5130,
       "stock": 0
     },
     {
@@ -5659,8 +5389,8 @@
       "descripcion": "JUGO EN POLVO RINDE DOS POMELO ROSADO X10U (Presentación x1u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
       "stock": 3
     },
     {
@@ -5668,81 +5398,81 @@
       "descripcion": "JUGO EN POLVO TANG GALACTICO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 3
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 2
     },
     {
       "codigo": 1181,
       "descripcion": "JUGO EN POLVO TANG LIMONADA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 21
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 15
     },
     {
       "codigo": 1177,
       "descripcion": "JUGO EN POLVO TANG MANZANA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 17
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 11
     },
     {
       "codigo": 1179,
       "descripcion": "JUGO EN POLVO TANG MULTIFRUTA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 15
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 7
     },
     {
       "codigo": 1175,
       "descripcion": "JUGO EN POLVO TANG NARANJA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 6
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 0
     },
     {
       "codigo": 1183,
       "descripcion": "JUGO EN POLVO TANG NARANJA BANANA (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 9
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 3
     },
     {
       "codigo": 1178,
       "descripcion": "JUGO EN POLVO TANG NARANJA DULCE (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 10
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 3
     },
     {
       "codigo": 1176,
       "descripcion": "JUGO EN POLVO TANG NARANJA DURAZNO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 6
+      "precio_bulto": 98220,
+      "precio_unidad": 8185,
+      "stock": 0
     },
     {
       "codigo": 1180,
       "descripcion": "JUGO EN POLVO TANG NARANJA MANGO (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "JUGOS EN POLVO",
-      "precio_bulto": 80750,
-      "precio_unidad": 6729.17,
-      "stock": 12
+      "precio_bulto": 6150,
+      "precio_unidad": 512.5,
+      "stock": 5
     },
     {
       "codigo": 260,
@@ -5760,7 +5490,7 @@
       "sublinea": "SODAS",
       "precio_bulto": 9320,
       "precio_unidad": 1553.33,
-      "stock": 48
+      "stock": 18
     },
     {
       "codigo": 1275,
@@ -5769,16 +5499,16 @@
       "sublinea": "SODAS",
       "precio_bulto": 8430,
       "precio_unidad": 1405,
-      "stock": 24
+      "stock": 12
     },
     {
       "codigo": 347,
       "descripcion": "SODA SIFON SALDAN X2L (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "SODAS",
-      "precio_bulto": 8430,
-      "precio_unidad": 1405,
-      "stock": 197
+      "precio_bulto": 85230,
+      "precio_unidad": 14205,
+      "stock": 26
     },
     {
       "codigo": 791,
@@ -5794,8 +5524,8 @@
       "descripcion": "COCKTAIL VINO EMILIA ROSE (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 40170,
-      "precio_unidad": 6695,
+      "precio_bulto": 39230,
+      "precio_unidad": 6538.33,
       "stock": 3
     },
     {
@@ -5803,8 +5533,8 @@
       "descripcion": "COCKTAIL VINO EMILIA SANGRIA X750 (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 40170,
-      "precio_unidad": 6695,
+      "precio_bulto": 39230,
+      "precio_unidad": 6538.33,
       "stock": 3
     },
     {
@@ -5812,8 +5542,8 @@
       "descripcion": "COCKTAIL VINO EMILIA SPRITZ X750 (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 40170,
-      "precio_unidad": 6695,
+      "precio_bulto": 39230,
+      "precio_unidad": 6538.33,
       "stock": 1
     },
     {
@@ -5830,8 +5560,8 @@
       "descripcion": "VINO 0-61 MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 44950,
-      "precio_unidad": 7491.67,
+      "precio_bulto": 45410,
+      "precio_unidad": 7568.33,
       "stock": 12
     },
     {
@@ -5841,7 +5571,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 21730,
       "precio_unidad": 3621.67,
-      "stock": 15
+      "stock": 24
     },
     {
       "codigo": 356,
@@ -5895,7 +5625,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 26290,
       "precio_unidad": 4381.67,
-      "stock": 77
+      "stock": 74
     },
     {
       "codigo": 348,
@@ -5922,7 +5652,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 29770,
       "precio_unidad": 4961.67,
-      "stock": 10
+      "stock": 13
     },
     {
       "codigo": 369,
@@ -5958,7 +5688,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 19230,
       "precio_unidad": 3205,
-      "stock": 167
+      "stock": 166
     },
     {
       "codigo": 987,
@@ -5967,7 +5697,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 19230,
       "precio_unidad": 3205,
-      "stock": 67
+      "stock": 61
     },
     {
       "codigo": 988,
@@ -5985,7 +5715,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 15860,
       "precio_unidad": 2643.33,
-      "stock": 14
+      "stock": 12
     },
     {
       "codigo": 1148,
@@ -5994,42 +5724,60 @@
       "sublinea": "VINOS",
       "precio_bulto": 17050,
       "precio_unidad": 2841.67,
-      "stock": 6
+      "stock": 54
     },
     {
       "codigo": 692,
       "descripcion": "VINO CANCILLER BOT X1,25ML (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 16260,
-      "precio_unidad": 1355,
-      "stock": 0
+      "precio_bulto": 25600,
+      "precio_unidad": 4266.67,
+      "stock": 41
     },
     {
       "codigo": 713,
-      "descripcion": "VINO COLON MALBEC-BONARDA (Presentación x12u)",
-      "linea": "BEBIDAS",
-      "sublinea": "VINOS",
-      "precio_bulto": 12880,
-      "precio_unidad": 2146.67,
-      "stock": 0
-    },
-    {
-      "codigo": 604,
       "descripcion": "VINO COLON MALBEC-BONARDA (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 17300,
-      "precio_unidad": 2883.33,
+      "precio_bulto": 26000,
+      "precio_unidad": 4333.33,
+      "stock": 0
+    },
+    {
+      "codigo": 1285,
+      "descripcion": "VINO COLON SELECTO BLANCO DULCE (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 26000,
+      "precio_unidad": 4333.33,
       "stock": 6
+    },
+    {
+      "codigo": 1284,
+      "descripcion": "VINO COLON SELECTO DURAZNO DULCE (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 26000,
+      "precio_unidad": 4333.33,
+      "stock": 3
+    },
+    {
+      "codigo": 1283,
+      "descripcion": "VINO COLON SELECTO FRUTOS ROJOS DULCE (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 26000,
+      "precio_unidad": 4333.33,
+      "stock": 0
     },
     {
       "codigo": 316,
       "descripcion": "VINO COLON SELECTO MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 25220,
-      "precio_unidad": 4203.33,
+      "precio_bulto": 25600,
+      "precio_unidad": 4266.67,
       "stock": 0
     },
     {
@@ -6037,17 +5785,17 @@
       "descripcion": "VINO COLON SELECTO TINTO DULCE (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 14540,
-      "precio_unidad": 2423.33,
-      "stock": 0
+      "precio_bulto": 26000,
+      "precio_unidad": 4333.33,
+      "stock": 6
     },
     {
       "codigo": 502,
       "descripcion": "VINO COLON X750ML TORRONTES (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 26750,
-      "precio_unidad": 4458.33,
+      "precio_bulto": 29330,
+      "precio_unidad": 4888.33,
       "stock": 0
     },
     {
@@ -6057,7 +5805,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 27800,
       "precio_unidad": 4633.33,
-      "stock": 1
+      "stock": 61
     },
     {
       "codigo": 353,
@@ -6082,8 +5830,8 @@
       "descripcion": "VINO DON DAVID MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 18780,
-      "precio_unidad": 3130,
+      "precio_bulto": 21740,
+      "precio_unidad": 3623.33,
       "stock": 6
     },
     {
@@ -6091,8 +5839,8 @@
       "descripcion": "VINO DON VALENTIN X750 BLANCO (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 18780,
-      "precio_unidad": 3130,
+      "precio_bulto": 21740,
+      "precio_unidad": 3623.33,
       "stock": 14
     },
     {
@@ -6102,7 +5850,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 48350,
       "precio_unidad": 8058.33,
-      "stock": 1
+      "stock": 61
     },
     {
       "codigo": 1274,
@@ -6120,7 +5868,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 31250,
       "precio_unidad": 5208.33,
-      "stock": 44
+      "stock": 33
     },
     {
       "codigo": 798,
@@ -6192,16 +5940,16 @@
       "sublinea": "VINOS",
       "precio_bulto": 20890,
       "precio_unidad": 3481.67,
-      "stock": 1
+      "stock": 7
     },
     {
       "codigo": 355,
       "descripcion": "VINO FINCA LAS MORAS MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 20890,
-      "precio_unidad": 3481.67,
-      "stock": 108
+      "precio_bulto": 20050,
+      "precio_unidad": 3341.67,
+      "stock": 106
     },
     {
       "codigo": 457,
@@ -6246,7 +5994,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 26110,
       "precio_unidad": 4351.67,
-      "stock": 46
+      "stock": 39
     },
     {
       "codigo": 313,
@@ -6262,8 +6010,8 @@
       "descripcion": "VINO LAS PERDICES CABERNET (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 40460,
-      "precio_unidad": 6743.33,
+      "precio_bulto": 43980,
+      "precio_unidad": 7330,
       "stock": 0
     },
     {
@@ -6399,7 +6147,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 11940,
       "precio_unidad": 1990,
-      "stock": 102
+      "stock": 90
     },
     {
       "codigo": 992,
@@ -6433,8 +6181,8 @@
       "descripcion": "VINO QUARA TORRONTES X750ML (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 12670,
-      "precio_unidad": 2111.67,
+      "precio_bulto": 31940,
+      "precio_unidad": 5323.33,
       "stock": 8
     },
     {
@@ -6442,8 +6190,8 @@
       "descripcion": "VINO QUARA X750 SYRAH (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 31600,
-      "precio_unidad": 5266.67,
+      "precio_bulto": 31940,
+      "precio_unidad": 5323.33,
       "stock": 3
     },
     {
@@ -6451,8 +6199,8 @@
       "descripcion": "VINO SANTA JULIA CABERNET (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 41230,
-      "precio_unidad": 6871.67,
+      "precio_bulto": 41650,
+      "precio_unidad": 6941.67,
       "stock": 16
     },
     {
@@ -6460,9 +6208,9 @@
       "descripcion": "VINO SANTA JULIA CHENIN DULCE (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 31600,
-      "precio_unidad": 5266.67,
-      "stock": 2
+      "precio_bulto": 31940,
+      "precio_unidad": 5323.33,
+      "stock": 62
     },
     {
       "codigo": 799,
@@ -6471,7 +6219,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 37580,
       "precio_unidad": 3131.67,
-      "stock": 236
+      "stock": 290
     },
     {
       "codigo": 811,
@@ -6496,8 +6244,8 @@
       "descripcion": "VINO SANTA JULIA RESERVA MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 31600,
-      "precio_unidad": 5266.67,
+      "precio_bulto": 31940,
+      "precio_unidad": 5323.33,
       "stock": 0
     },
     {
@@ -6507,24 +6255,24 @@
       "sublinea": "VINOS",
       "precio_bulto": 36360,
       "precio_unidad": 6060,
-      "stock": 9
+      "stock": 6
     },
     {
       "codigo": 607,
       "descripcion": "VINO SANTA JULIA TINTO DULCE (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 15594,
-      "precio_unidad": 2599,
-      "stock": 19
+      "precio_bulto": 10260,
+      "precio_unidad": 1710,
+      "stock": 16
     },
     {
       "codigo": 235,
       "descripcion": "VINO SUTER BLANCO DULCE 750ML (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 15594,
-      "precio_unidad": 2599,
+      "precio_bulto": 20350,
+      "precio_unidad": 1695.83,
       "stock": 33
     },
     {
@@ -6532,8 +6280,8 @@
       "descripcion": "VINO SUTER CABERNET 750ML (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 15594,
-      "precio_unidad": 2599,
+      "precio_bulto": 20350,
+      "precio_unidad": 1695.83,
       "stock": 102
     },
     {
@@ -6541,8 +6289,8 @@
       "descripcion": "VINO SUTER MALBEC 750ML (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 10260,
-      "precio_unidad": 1710,
+      "precio_bulto": 20350,
+      "precio_unidad": 1695.83,
       "stock": 216
     },
     {
@@ -6552,7 +6300,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 20350,
       "precio_unidad": 1695.83,
-      "stock": 23
+      "stock": 17
     },
     {
       "codigo": 527,
@@ -6561,7 +6309,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 12800,
       "precio_unidad": 2133.33,
-      "stock": 0
+      "stock": 6
     },
     {
       "codigo": 691,
@@ -6597,7 +6345,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 17580,
       "precio_unidad": 1465,
-      "stock": 34
+      "stock": 29
     },
     {
       "codigo": 1044,
@@ -6640,8 +6388,8 @@
       "descripcion": "VINOS LAS PERDICES RESERVA MALBEC (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VINOS",
-      "precio_bulto": 45770,
-      "precio_unidad": 7628.33,
+      "precio_bulto": 80100,
+      "precio_unidad": 13350,
       "stock": 0
     },
     {
@@ -6687,7 +6435,7 @@
       "sublinea": "VODKA",
       "precio_bulto": 89370,
       "precio_unidad": 7447.5,
-      "stock": 64
+      "stock": 63
     },
     {
       "codigo": 782,
@@ -6759,7 +6507,7 @@
       "sublinea": "VODKA",
       "precio_bulto": 54450,
       "precio_unidad": 9075,
-      "stock": 6
+      "stock": 4
     },
     {
       "codigo": 237,
@@ -6768,7 +6516,7 @@
       "sublinea": "VODKA",
       "precio_bulto": 97910,
       "precio_unidad": 8159.17,
-      "stock": 2
+      "stock": 1
     },
     {
       "codigo": 239,
@@ -6784,13 +6532,40 @@
       "descripcion": "VODKA SMIRNOFF X700ML FRUTA TROPICAL (Presentación x6u)",
       "linea": "BEBIDAS",
       "sublinea": "VODKA",
-      "precio_bulto": 54450,
-      "precio_unidad": 9075,
+      "precio_bulto": 61980,
+      "precio_unidad": 2582.5,
       "stock": 6
+    },
+    {
+      "codigo": 1288,
+      "descripcion": "PETACA CUSENIER CAFE AL COÑAC (Presentación x24u)",
+      "linea": "BEBIDAS",
+      "sublinea": "WHISKY",
+      "precio_bulto": 12000,
+      "precio_unidad": 1000,
+      "stock": 0
     },
     {
       "codigo": 574,
       "descripcion": "PETACA DE WHISKY X200CC (Presentación x12u)",
+      "linea": "BEBIDAS",
+      "sublinea": "WHISKY",
+      "precio_bulto": 54900,
+      "precio_unidad": 2287.5,
+      "stock": 0
+    },
+    {
+      "codigo": 1289,
+      "descripcion": "PETACA DOBLE-V  WHISKY (Presentación x24u)",
+      "linea": "BEBIDAS",
+      "sublinea": "WHISKY",
+      "precio_bulto": 33770,
+      "precio_unidad": 2814.17,
+      "stock": 0
+    },
+    {
+      "codigo": 1290,
+      "descripcion": "PETACA GINEBRA LLAVE (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "WHISKY",
       "precio_bulto": 15230,
@@ -6813,7 +6588,7 @@
       "sublinea": "WHISKY",
       "precio_bulto": 15230,
       "precio_unidad": 1269.17,
-      "stock": 53
+      "stock": 41
     },
     {
       "codigo": 1083,
@@ -6822,7 +6597,7 @@
       "sublinea": "WHISKY",
       "precio_bulto": 15230,
       "precio_unidad": 1269.17,
-      "stock": 50
+      "stock": 37
     },
     {
       "codigo": 1075,
@@ -6876,7 +6651,7 @@
       "sublinea": "WHISKY",
       "precio_bulto": 33930,
       "precio_unidad": 33930,
-      "stock": 3
+      "stock": 2
     },
     {
       "codigo": 793,
@@ -6910,8 +6685,8 @@
       "descripcion": "WHISKY WHITE HORSE X750ML (Presentación x12u)",
       "linea": "BEBIDAS",
       "sublinea": "WHISKY",
-      "precio_bulto": 216240,
-      "precio_unidad": 18020,
+      "precio_bulto": 6550,
+      "precio_unidad": 6550,
       "stock": 3
     },
     {
@@ -6919,9 +6694,9 @@
       "descripcion": "JAMON COCIDO DOS ELES ETQ. NEGRA (Presentación x1u)",
       "linea": "FIAMBRERIA",
       "sublinea": "",
-      "precio_bulto": 6550,
-      "precio_unidad": 6550,
-      "stock": 77.79
+      "precio_bulto": 8400,
+      "precio_unidad": 8400,
+      "stock": 59.71
     },
     {
       "codigo": 1092,
@@ -6939,7 +6714,7 @@
       "sublinea": "QUESOS",
       "precio_bulto": 6170,
       "precio_unidad": 6170,
-      "stock": 0.19
+      "stock": 41.57
     },
     {
       "codigo": 1129,
@@ -6973,8 +6748,8 @@
       "descripcion": "LA MARIA QUESO BARRA (Presentación x1u)",
       "linea": "FIAMBRERIA",
       "sublinea": "QUESOS",
-      "precio_bulto": 9270,
-      "precio_unidad": 9270,
+      "precio_bulto": 11630,
+      "precio_unidad": 11630,
       "stock": 41.71
     },
     {
@@ -6982,8 +6757,8 @@
       "descripcion": "QUESO BARRA LA PAULINA DAMBO (Presentación x1u)",
       "linea": "FIAMBRERIA",
       "sublinea": "QUESOS",
-      "precio_bulto": 7910,
-      "precio_unidad": 7910,
+      "precio_bulto": 9630,
+      "precio_unidad": 9630,
       "stock": 4.1
     },
     {
@@ -6991,18 +6766,18 @@
       "descripcion": "QUESO BARRA TYBO LA ESTACION (Presentación x1u)",
       "linea": "FIAMBRERIA",
       "sublinea": "QUESOS",
-      "precio_bulto": 26690,
-      "precio_unidad": 1112.08,
-      "stock": 26.55
+      "precio_bulto": 29460,
+      "precio_unidad": 1227.5,
+      "stock": 58.53
     },
     {
       "codigo": 1122,
       "descripcion": "QUESO RALLADO LA PAULINA X40G (Presentación x24u)",
       "linea": "FIAMBRERIA",
       "sublinea": "QUESOS",
-      "precio_bulto": 26690,
-      "precio_unidad": 1112.08,
-      "stock": 14
+      "precio_bulto": 23010,
+      "precio_unidad": 2876.25,
+      "stock": 68
     },
     {
       "codigo": 961,
@@ -7011,7 +6786,7 @@
       "sublinea": "",
       "precio_bulto": 10920,
       "precio_unidad": 910,
-      "stock": 8
+      "stock": 1
     },
     {
       "codigo": 133,
@@ -7020,7 +6795,7 @@
       "sublinea": "",
       "precio_bulto": 9580,
       "precio_unidad": 1596.67,
-      "stock": 223
+      "stock": 154
     },
     {
       "codigo": 132,
@@ -7038,7 +6813,7 @@
       "sublinea": "",
       "precio_bulto": 30490,
       "precio_unidad": 2540.83,
-      "stock": 107
+      "stock": 106
     },
     {
       "codigo": 1241,
@@ -7074,7 +6849,7 @@
       "sublinea": "",
       "precio_bulto": 36360,
       "precio_unidad": 1515,
-      "stock": 26
+      "stock": 20
     },
     {
       "codigo": 322,
@@ -7092,7 +6867,7 @@
       "sublinea": "",
       "precio_bulto": 35640,
       "precio_unidad": 2970,
-      "stock": 11
+      "stock": 9
     },
     {
       "codigo": 321,
@@ -7101,7 +6876,7 @@
       "sublinea": "",
       "precio_bulto": 18710,
       "precio_unidad": 1559.17,
-      "stock": 17
+      "stock": 5
     },
     {
       "codigo": 1058,
@@ -7110,7 +6885,7 @@
       "sublinea": "",
       "precio_bulto": 41010,
       "precio_unidad": 3417.5,
-      "stock": 129
+      "stock": 117
     },
     {
       "codigo": 1115,
@@ -7137,7 +6912,7 @@
       "sublinea": "",
       "precio_bulto": 9600,
       "precio_unidad": 800,
-      "stock": 72
+      "stock": 5
     },
     {
       "codigo": 134,
@@ -7146,7 +6921,7 @@
       "sublinea": "",
       "precio_bulto": 9600,
       "precio_unidad": 800,
-      "stock": 92
+      "stock": 89
     },
     {
       "codigo": 138,
@@ -7155,7 +6930,7 @@
       "sublinea": "",
       "precio_bulto": 9600,
       "precio_unidad": 800,
-      "stock": 70
+      "stock": 65
     },
     {
       "codigo": 137,
@@ -7164,7 +6939,7 @@
       "sublinea": "",
       "precio_bulto": 9600,
       "precio_unidad": 800,
-      "stock": 94
+      "stock": 89
     },
     {
       "codigo": 136,
@@ -7189,9 +6964,9 @@
       "descripcion": "TRAPO DE PISO DEA GRIS (Presentación x1u)",
       "linea": "LIMPIEZA",
       "sublinea": "",
-      "precio_bulto": 950,
-      "precio_unidad": 950,
-      "stock": 19
+      "precio_bulto": 17210,
+      "precio_unidad": 1721,
+      "stock": 11
     },
     {
       "codigo": 1103,
@@ -7209,7 +6984,7 @@
       "sublinea": "BOLSAS DE RESIDUOS",
       "precio_bulto": 49380,
       "precio_unidad": 987.6,
-      "stock": 4
+      "stock": 0
     },
     {
       "codigo": 1056,
@@ -7218,24 +6993,24 @@
       "sublinea": "BOLSAS DE RESIDUOS",
       "precio_bulto": 107430,
       "precio_unidad": 3581,
-      "stock": 62
+      "stock": 61
     },
     {
       "codigo": 1057,
       "descripcion": "BOLSAS DE RESIDUOS LIBERTADOR 80X110 (Presentación x30u)",
       "linea": "LIMPIEZA",
       "sublinea": "BOLSAS DE RESIDUOS",
-      "precio_bulto": 107430,
-      "precio_unidad": 3581,
-      "stock": 60
+      "precio_bulto": 17400,
+      "precio_unidad": 1450,
+      "stock": 55
     },
     {
       "codigo": 837,
       "descripcion": "CABO DEA METALICO (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "CABOS",
-      "precio_bulto": 17400,
-      "precio_unidad": 1450,
+      "precio_bulto": 12950,
+      "precio_unidad": 2158.33,
       "stock": 13
     },
     {
@@ -7272,7 +7047,7 @@
       "sublinea": "DESODORANTE DE AMBIENTE",
       "precio_bulto": 12950,
       "precio_unidad": 2158.33,
-      "stock": 21
+      "stock": 20
     },
     {
       "codigo": 971,
@@ -7281,16 +7056,16 @@
       "sublinea": "DESODORANTE DE AMBIENTE",
       "precio_bulto": 12950,
       "precio_unidad": 2158.33,
-      "stock": 53
+      "stock": 52
     },
     {
       "codigo": 972,
       "descripcion": "POETT EN AEROSOL X360ML PRIMAVERA (Presentación x6u)",
       "linea": "LIMPIEZA",
       "sublinea": "DESODORANTE DE AMBIENTE",
-      "precio_bulto": 12950,
-      "precio_unidad": 2158.33,
-      "stock": 13
+      "precio_bulto": 37000,
+      "precio_unidad": 3083.33,
+      "stock": 12
     },
     {
       "codigo": 840,
@@ -7299,7 +7074,7 @@
       "sublinea": "ESCOBILLON",
       "precio_bulto": 35780,
       "precio_unidad": 2981.67,
-      "stock": 8
+      "stock": 1
     },
     {
       "codigo": 836,
@@ -7317,7 +7092,7 @@
       "sublinea": "ESPONJAS",
       "precio_bulto": 5970,
       "precio_unidad": 497.5,
-      "stock": 545
+      "stock": 529
     },
     {
       "codigo": 830,
@@ -7333,8 +7108,8 @@
       "descripcion": "LANA DE ACERO DEA (Presentación x25u)",
       "linea": "LIMPIEZA",
       "sublinea": "ESPONJAS",
-      "precio_bulto": 17310,
-      "precio_unidad": 692.4,
+      "precio_bulto": 28310,
+      "precio_unidad": 2359.17,
       "stock": 342
     },
     {
@@ -7342,8 +7117,8 @@
       "descripcion": "GUANTES DEA MEDIANOS (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "GUANTES",
-      "precio_bulto": 28310,
-      "precio_unidad": 2359.17,
+      "precio_bulto": 17770,
+      "precio_unidad": 1184.67,
       "stock": 86
     },
     {
@@ -7353,7 +7128,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 10580,
       "precio_unidad": 3526.67,
-      "stock": 49
+      "stock": 48
     },
     {
       "codigo": 1236,
@@ -7362,7 +7137,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 8940,
       "precio_unidad": 745,
-      "stock": 28
+      "stock": 25
     },
     {
       "codigo": 476,
@@ -7371,7 +7146,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 9560,
       "precio_unidad": 796.67,
-      "stock": 633
+      "stock": 620
     },
     {
       "codigo": 908,
@@ -7443,7 +7218,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 31680,
       "precio_unidad": 1320,
-      "stock": 25
+      "stock": 14
     },
     {
       "codigo": 563,
@@ -7452,7 +7227,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 19150,
       "precio_unidad": 797.92,
-      "stock": 84
+      "stock": 70
     },
     {
       "codigo": 552,
@@ -7479,7 +7254,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 25650,
       "precio_unidad": 2137.5,
-      "stock": 15
+      "stock": 13
     },
     {
       "codigo": 599,
@@ -7488,7 +7263,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 19490,
       "precio_unidad": 1624.17,
-      "stock": 7
+      "stock": 5
     },
     {
       "codigo": 475,
@@ -7497,7 +7272,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 15360,
       "precio_unidad": 7680,
-      "stock": 130
+      "stock": 101
     },
     {
       "codigo": 758,
@@ -7515,7 +7290,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 21820,
       "precio_unidad": 1818.33,
-      "stock": 151
+      "stock": 146
     },
     {
       "codigo": 477,
@@ -7524,7 +7299,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 16250,
       "precio_unidad": 1354.17,
-      "stock": 36
+      "stock": 34
     },
     {
       "codigo": 474,
@@ -7533,15 +7308,15 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 38000,
       "precio_unidad": 9500,
-      "stock": 149
+      "stock": 131
     },
     {
       "codigo": 566,
       "descripcion": "SUAVIZANTE VIVERE CLASICO X5L (Presentación x4u)",
       "linea": "LIMPIEZA",
       "sublinea": "LAVANDINAS",
-      "precio_bulto": 38000,
-      "precio_unidad": 9500,
+      "precio_bulto": 18720,
+      "precio_unidad": 1560,
       "stock": 9
     },
     {
@@ -7551,7 +7326,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 14820,
       "precio_unidad": 1235,
-      "stock": 8
+      "stock": 1
     },
     {
       "codigo": 1202,
@@ -7569,7 +7344,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 17820,
       "precio_unidad": 371.25,
-      "stock": 533
+      "stock": 523
     },
     {
       "codigo": 653,
@@ -7578,7 +7353,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 17400,
       "precio_unidad": 1450,
-      "stock": 32
+      "stock": 7
     },
     {
       "codigo": 386,
@@ -7587,7 +7362,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 19600,
       "precio_unidad": 1633.33,
-      "stock": 216
+      "stock": 126
     },
     {
       "codigo": 462,
@@ -7596,7 +7371,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 10600,
       "precio_unidad": 883.33,
-      "stock": 199
+      "stock": 198
     },
     {
       "codigo": 1030,
@@ -7621,8 +7396,8 @@
       "descripcion": "PAPEL HIGIENICO SANIDAD X1UX50M (Presentación x24u)",
       "linea": "LIMPIEZA",
       "sublinea": "PAPEL HIGIENICO",
-      "precio_bulto": 12130,
-      "precio_unidad": 505.42,
+      "precio_bulto": 36870,
+      "precio_unidad": 3072.5,
       "stock": 1
     },
     {
@@ -7668,7 +7443,7 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 19240,
       "precio_unidad": 1282.67,
-      "stock": 24
+      "stock": 23
     },
     {
       "codigo": 559,
@@ -7677,7 +7452,7 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 19060,
       "precio_unidad": 1270.67,
-      "stock": 121
+      "stock": 74
     },
     {
       "codigo": 759,
@@ -7686,16 +7461,16 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 18360,
       "precio_unidad": 1530,
-      "stock": 1
+      "stock": 46
     },
     {
       "codigo": 906,
       "descripcion": "DETERGENTE SINTETICO LIBERTADOR X1L (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 18360,
-      "precio_unidad": 1530,
-      "stock": 14
+      "precio_bulto": 12610,
+      "precio_unidad": 1050.83,
+      "stock": 12
     },
     {
       "codigo": 578,
@@ -7729,36 +7504,36 @@
       "descripcion": "JABON DE TOCADOR REXONA X125G BAMBOO (Presentación x72u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 74910,
-      "precio_unidad": 1040.42,
-      "stock": 15
+      "precio_bulto": 73160,
+      "precio_unidad": 1016.11,
+      "stock": 6
     },
     {
       "codigo": 440,
       "descripcion": "JABON DE TOCADOR REXONA X125G COTTON FRESH (Presentación x72u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 74910,
-      "precio_unidad": 1040.42,
-      "stock": 5
+      "precio_bulto": 73160,
+      "precio_unidad": 1016.11,
+      "stock": 0
     },
     {
       "codigo": 442,
       "descripcion": "JABON DE TOCADOR REXONA X125G NUTITIVE ORCHID (Presentación x72u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 74910,
-      "precio_unidad": 1040.42,
-      "stock": 9
+      "precio_bulto": 73160,
+      "precio_unidad": 1016.11,
+      "stock": 0
     },
     {
       "codigo": 496,
       "descripcion": "JABON DE TOCADOR REXONA X125G SENSIBLE (Presentación x72u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 74910,
-      "precio_unidad": 1040.42,
-      "stock": 8
+      "precio_bulto": 73160,
+      "precio_unidad": 1016.11,
+      "stock": 2
     },
     {
       "codigo": 439,
@@ -7776,7 +7551,7 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 27720,
       "precio_unidad": 2310,
-      "stock": 88
+      "stock": 64
     },
     {
       "codigo": 905,
@@ -7812,7 +7587,7 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 36870,
       "precio_unidad": 3072.5,
-      "stock": 6
+      "stock": 0
     },
     {
       "codigo": 545,
@@ -7830,16 +7605,16 @@
       "sublinea": "PERFUMERIA",
       "precio_bulto": 36870,
       "precio_unidad": 3072.5,
-      "stock": 1
+      "stock": 0
     },
     {
       "codigo": 546,
       "descripcion": "SHAMPOO PLUSBELLE X1000ML PROTECCION (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMERIA",
-      "precio_bulto": 36870,
-      "precio_unidad": 3072.5,
-      "stock": 38
+      "precio_bulto": 11890,
+      "precio_unidad": 990.83,
+      "stock": 35
     },
     {
       "codigo": 340,
@@ -7875,7 +7650,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 20330,
       "precio_unidad": 1694.17,
-      "stock": 34
+      "stock": 6
     },
     {
       "codigo": 382,
@@ -7884,7 +7659,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 26030,
       "precio_unidad": 2169.17,
-      "stock": 33
+      "stock": 12
     },
     {
       "codigo": 1107,
@@ -7920,7 +7695,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 13690,
       "precio_unidad": 1140.83,
-      "stock": 109
+      "stock": 95
     },
     {
       "codigo": 1239,
@@ -7929,7 +7704,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 33380,
       "precio_unidad": 1390.83,
-      "stock": 146
+      "stock": 138
     },
     {
       "codigo": 392,
@@ -7938,7 +7713,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 29540,
       "precio_unidad": 7385,
-      "stock": 5
+      "stock": 1
     },
     {
       "codigo": 650,
@@ -7965,7 +7740,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 26030,
       "precio_unidad": 6507.5,
-      "stock": 0
+      "stock": 2
     },
     {
       "codigo": 384,
@@ -7983,7 +7758,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 10970,
       "precio_unidad": 914.17,
-      "stock": 197
+      "stock": 196
     },
     {
       "codigo": 1059,
@@ -7992,7 +7767,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 21040,
       "precio_unidad": 1753.33,
-      "stock": 30
+      "stock": 27
     },
     {
       "codigo": 918,
@@ -8001,7 +7776,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 21040,
       "precio_unidad": 1753.33,
-      "stock": 28
+      "stock": 24
     },
     {
       "codigo": 731,
@@ -8019,7 +7794,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 21040,
       "precio_unidad": 1753.33,
-      "stock": 23
+      "stock": 20
     },
     {
       "codigo": 1242,
@@ -8028,7 +7803,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 23010,
       "precio_unidad": 2876.25,
-      "stock": 31
+      "stock": 13
     },
     {
       "codigo": 613,
@@ -8044,9 +7819,9 @@
       "descripcion": "SUAVIZANTE VIVERE LIQUIDO X900ML (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "PERFUMINA",
-      "precio_bulto": 31100,
-      "precio_unidad": 2591.67,
-      "stock": 0
+      "precio_bulto": 158750,
+      "precio_unidad": 635,
+      "stock": 11
     },
     {
       "codigo": 841,
@@ -8062,9 +7837,9 @@
       "descripcion": "REJILLA DEA AMERICANA (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "REJILLAS",
-      "precio_bulto": 10510,
-      "precio_unidad": 875.83,
-      "stock": 234
+      "precio_bulto": 51560,
+      "precio_unidad": 1473.14,
+      "stock": 228
     },
     {
       "codigo": 588,
@@ -8073,7 +7848,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 21360,
       "precio_unidad": 890,
-      "stock": 267
+      "stock": 239
     },
     {
       "codigo": 705,
@@ -8082,7 +7857,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 9250,
       "precio_unidad": 1156.25,
-      "stock": 61
+      "stock": 5
     },
     {
       "codigo": 403,
@@ -8100,7 +7875,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 10970,
       "precio_unidad": 1371.25,
-      "stock": 165
+      "stock": 14
     },
     {
       "codigo": 1120,
@@ -8109,7 +7884,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 10190,
       "precio_unidad": 1273.75,
-      "stock": 186
+      "stock": 173
     },
     {
       "codigo": 1196,
@@ -8145,7 +7920,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 16630,
       "precio_unidad": 1663,
-      "stock": 47
+      "stock": 43
     },
     {
       "codigo": 1147,
@@ -8161,8 +7936,8 @@
       "descripcion": "ROLLO DE COCINA SUSSEX CLASICO X200 PAÑOS (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "ROLLO DE COCINA",
-      "precio_bulto": 25450,
-      "precio_unidad": 2120.83,
+      "precio_bulto": 23770,
+      "precio_unidad": 1980.83,
       "stock": 12
     },
     {
@@ -8172,24 +7947,24 @@
       "sublinea": "SECADORES",
       "precio_bulto": 25040,
       "precio_unidad": 2086.67,
-      "stock": 84
+      "stock": 76
     },
     {
       "codigo": 835,
       "descripcion": "SECADOR DEA Nº 4 (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "SECADORES",
-      "precio_bulto": 25040,
-      "precio_unidad": 2086.67,
-      "stock": 8
+      "precio_bulto": 14040,
+      "precio_unidad": 1170,
+      "stock": 3
     },
     {
       "codigo": 834,
       "descripcion": "SOPAPA DEA (Presentación x12u)",
       "linea": "LIMPIEZA",
       "sublinea": "SOPAPAS",
-      "precio_bulto": 14040,
-      "precio_unidad": 1170,
+      "precio_bulto": 25740,
+      "precio_unidad": 2145,
       "stock": 52
     },
     {
@@ -8197,9 +7972,9 @@
       "descripcion": "PASTA DENTAL COLGATE X90G (Presentación x12u)",
       "linea": "PERFUMERIA",
       "sublinea": "",
-      "precio_bulto": 25740,
-      "precio_unidad": 2145,
-      "stock": 100
+      "precio_bulto": 40930,
+      "precio_unidad": 3410.83,
+      "stock": 95
     },
     {
       "codigo": 985,
@@ -8251,9 +8026,9 @@
       "descripcion": "TOALLITAS LINA NORMAL C/ALAS (Presentación x48u)",
       "linea": "PERFUMERIA",
       "sublinea": "DESODORANTE",
-      "precio_bulto": 53660,
-      "precio_unidad": 1117.92,
-      "stock": 17
+      "precio_bulto": 72190,
+      "precio_unidad": 6015.83,
+      "stock": 25
     },
     {
       "codigo": 924,
