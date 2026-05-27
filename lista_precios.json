@@ -1,6 +1,6 @@
 {
-  "fecha_actualizacion": "27/05/2026 10:19",
-  "total_productos": 919,
+  "fecha_actualizacion": "27/05/2026 10:42",
+  "total_productos": 948,
   "productos": [
     {
       "codigo": 1134,
@@ -75,6 +75,15 @@
       "stock": 1
     },
     {
+      "codigo": 473,
+      "descripcion": "ACEITE COCINERO X900ML (Presentación x15u)",
+      "linea": "ALMACEN",
+      "sublinea": "ACEITES",
+      "precio_bulto": 54450,
+      "precio_unidad": 3630,
+      "stock": 413
+    },
+    {
       "codigo": 1,
       "descripcion": "ACEITE COSTA DEL SOL 1,5L (Presentación x12u)",
       "linea": "ALMACEN",
@@ -100,6 +109,15 @@
       "precio_bulto": 68930,
       "precio_unidad": 17232.5,
       "stock": 16
+    },
+    {
+      "codigo": 1130,
+      "descripcion": "ACEITE EL CORTIJO X900CC (Presentación x15u)",
+      "linea": "ALMACEN",
+      "sublinea": "ACEITES",
+      "precio_bulto": 38940,
+      "precio_unidad": 2596,
+      "stock": 433
     },
     {
       "codigo": 1249,
@@ -352,6 +370,33 @@
       "precio_bulto": 18470,
       "precio_unidad": 1847,
       "stock": 118
+    },
+    {
+      "codigo": 53,
+      "descripcion": "ARROZ TRIMACER X1K L.FINO (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "ARROZ",
+      "precio_bulto": 11290,
+      "precio_unidad": 1129,
+      "stock": 119
+    },
+    {
+      "codigo": 929,
+      "descripcion": "ARROZ TRIMACER X500G D.CAROLINA (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "ARROZ",
+      "precio_bulto": 7260,
+      "precio_unidad": 726,
+      "stock": 303
+    },
+    {
+      "codigo": 54,
+      "descripcion": "ARROZ TRIMACER X500G L.FINO (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "ARROZ",
+      "precio_bulto": 5880,
+      "precio_unidad": 588,
+      "stock": 1.223
     },
     {
       "codigo": 786,
@@ -1524,6 +1569,33 @@
       "stock": 135
     },
     {
+      "codigo": 1272,
+      "descripcion": "FIDEOS LUCCHETTI FORATINI (Presentación x20u)",
+      "linea": "ALMACEN",
+      "sublinea": "FIDEOS",
+      "precio_bulto": 21530,
+      "precio_unidad": 1076.5,
+      "stock": 164
+    },
+    {
+      "codigo": 1270,
+      "descripcion": "FIDEOS LUCCHETTI MOSTACHOL (Presentación x15u)",
+      "linea": "ALMACEN",
+      "sublinea": "FIDEOS",
+      "precio_bulto": 16150,
+      "precio_unidad": 1076.67,
+      "stock": 251
+    },
+    {
+      "codigo": 1271,
+      "descripcion": "FIDEOS LUCCHETTI TALLARIN (Presentación x20u)",
+      "linea": "ALMACEN",
+      "sublinea": "FIDEOS",
+      "precio_bulto": 21530,
+      "precio_unidad": 1076.5,
+      "stock": 178
+    },
+    {
       "codigo": 1280,
       "descripcion": "FIDEOS SOL PAMPEANO CABELLO DE ANGEL (Presentación x15u)",
       "linea": "ALMACEN",
@@ -1956,6 +2028,15 @@
       "stock": 38
     },
     {
+      "codigo": 913,
+      "descripcion": "GALLETITAS SERRANAS  SANDWICH X3 (Presentación x16u)",
+      "linea": "ALMACEN",
+      "sublinea": "GALLETITAS",
+      "precio_bulto": 24400,
+      "precio_unidad": 1525,
+      "stock": 9
+    },
+    {
       "codigo": 123,
       "descripcion": "GALLETITAS SERRANITAS X3 (Presentación x14u)",
       "linea": "ALMACEN",
@@ -1981,6 +2062,15 @@
       "precio_bulto": 54280,
       "precio_unidad": 2584.76,
       "stock": 195
+    },
+    {
+      "codigo": 98,
+      "descripcion": "GALLETITAS SURTIDO DIVERSION 390G (Presentación x21u)",
+      "linea": "ALMACEN",
+      "sublinea": "GALLETITAS",
+      "precio_bulto": 41890,
+      "precio_unidad": 1994.76,
+      "stock": 443
     },
     {
       "codigo": 728,
@@ -2253,6 +2343,24 @@
       "stock": 48
     },
     {
+      "codigo": 100,
+      "descripcion": "HARINA VENADO TUERTO X1K 000 (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 7400,
+      "precio_unidad": 740,
+      "stock": 1.093
+    },
+    {
+      "codigo": 101,
+      "descripcion": "HARINA VENADO TUERTO X1K 0000 (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 9200,
+      "precio_unidad": 920,
+      "stock": 560
+    },
+    {
       "codigo": 1281,
       "descripcion": "HARINA VENADO TUERTO X1K INTEGRAL (Presentación x10u)",
       "linea": "ALMACEN",
@@ -2260,6 +2368,15 @@
       "precio_bulto": 8380,
       "precio_unidad": 838,
       "stock": 71
+    },
+    {
+      "codigo": 456,
+      "descripcion": "HARINA VENADO TUERTO X1K LEUDANTE (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "HARINA",
+      "precio_bulto": 10720,
+      "precio_unidad": 1072,
+      "stock": 376
     },
     {
       "codigo": 528,
@@ -2422,6 +2539,15 @@
       "precio_bulto": 15350,
       "precio_unidad": 1918.75,
       "stock": 3
+    },
+    {
+      "codigo": 1065,
+      "descripcion": "LECHE BAGGIO CHOCOLATADA X200CC (Presentación x18u)",
+      "linea": "ALMACEN",
+      "sublinea": "LECHE",
+      "precio_bulto": 10810,
+      "precio_unidad": 600.56,
+      "stock": 152
     },
     {
       "codigo": 1037,
@@ -2928,6 +3054,15 @@
       "stock": 3
     },
     {
+      "codigo": 60,
+      "descripcion": "PURE DE TOMATE TETRA ARCOR X530G (Presentación x12u)",
+      "linea": "ALMACEN",
+      "sublinea": "PURE DE TOMATE",
+      "precio_bulto": 9190,
+      "precio_unidad": 765.83,
+      "stock": 293
+    },
+    {
       "codigo": 1027,
       "descripcion": "PURE DE TOMATE TETRA DE LA HUERTA X210G (Presentación x18u)",
       "linea": "ALMACEN",
@@ -3396,6 +3531,15 @@
       "stock": 464
     },
     {
+      "codigo": 103,
+      "descripcion": "VINAGRE HALCONERO DE ALCOHOL X5L (Presentación x3u)",
+      "linea": "ALMACEN",
+      "sublinea": "VINAGRE",
+      "precio_bulto": 16170,
+      "precio_unidad": 5390,
+      "stock": 42
+    },
+    {
       "codigo": 104,
       "descripcion": "VINAGRE HALCONERO DE ALCOHOL X930CC (Presentación x12u)",
       "linea": "ALMACEN",
@@ -3603,6 +3747,24 @@
       "stock": 1
     },
     {
+      "codigo": 262,
+      "descripcion": "YERBA TARAGUI X500G (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "YERBAS",
+      "precio_bulto": 16740,
+      "precio_unidad": 1674,
+      "stock": 29
+    },
+    {
+      "codigo": 261,
+      "descripcion": "YERBA UNION X500G (Presentación x10u)",
+      "linea": "ALMACEN",
+      "sublinea": "YERBAS",
+      "precio_bulto": 16740,
+      "precio_unidad": 1674,
+      "stock": 0
+    },
+    {
       "codigo": 941,
       "descripcion": "YERBA YERUTI X500G (Presentación x10u)",
       "linea": "ALMACEN",
@@ -3655,6 +3817,24 @@
       "precio_bulto": 19170,
       "precio_unidad": 3195,
       "stock": 2
+    },
+    {
+      "codigo": 223,
+      "descripcion": "GASEOSA PEPSI 3L (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "",
+      "precio_bulto": 15500,
+      "precio_unidad": 2583.33,
+      "stock": 64
+    },
+    {
+      "codigo": 222,
+      "descripcion": "GASEOSA SEVEN UP 3L (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "",
+      "precio_bulto": 15500,
+      "precio_unidad": 2583.33,
+      "stock": 39
     },
     {
       "codigo": 1079,
@@ -5205,6 +5385,51 @@
       "stock": 11
     },
     {
+      "codigo": 277,
+      "descripcion": "GASEOSA DOBLE COLA X3L COLA (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 11370,
+      "precio_unidad": 1895,
+      "stock": 55
+    },
+    {
+      "codigo": 278,
+      "descripcion": "GASEOSA DOBLE COLA X3L LIMA LIMON (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 11370,
+      "precio_unidad": 1895,
+      "stock": 67
+    },
+    {
+      "codigo": 279,
+      "descripcion": "GASEOSA DOBLE COLA X3L NARANJA (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 11370,
+      "precio_unidad": 1895,
+      "stock": 38
+    },
+    {
+      "codigo": 431,
+      "descripcion": "GASEOSA DOBLE COLA X3L P.BLANCO (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 11370,
+      "precio_unidad": 1895,
+      "stock": 24
+    },
+    {
+      "codigo": 280,
+      "descripcion": "GASEOSA DOBLE COLA X3L POMELO (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 11370,
+      "precio_unidad": 1895,
+      "stock": 27
+    },
+    {
       "codigo": 1126,
       "descripcion": "GASEOSA DOBLE COLA X500ML LIMA (Presentación x6u)",
       "linea": "BEBIDAS",
@@ -5257,6 +5482,15 @@
       "precio_bulto": 17900,
       "precio_unidad": 2237.5,
       "stock": 4
+    },
+    {
+      "codigo": 250,
+      "descripcion": "GASEOSA PRITTY X3L (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "GASEOSAS",
+      "precio_bulto": 14540,
+      "precio_unidad": 2423.33,
+      "stock": 13
     },
     {
       "codigo": 876,
@@ -6499,6 +6733,33 @@
       "precio_bulto": 36360,
       "precio_unidad": 6060,
       "stock": 10
+    },
+    {
+      "codigo": 235,
+      "descripcion": "VINO SUTER BLANCO DULCE 750ML (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 14880,
+      "precio_unidad": 2480,
+      "stock": 33
+    },
+    {
+      "codigo": 234,
+      "descripcion": "VINO SUTER CABERNET 750ML (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 14880,
+      "precio_unidad": 2480,
+      "stock": 102
+    },
+    {
+      "codigo": 233,
+      "descripcion": "VINO SUTER MALBEC 750ML (Presentación x6u)",
+      "linea": "BEBIDAS",
+      "sublinea": "VINOS",
+      "precio_bulto": 14880,
+      "precio_unidad": 2480,
+      "stock": 215
     },
     {
       "codigo": 259,
