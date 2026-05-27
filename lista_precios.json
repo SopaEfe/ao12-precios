@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "23/05/2026 18:49",
+  "fecha_actualizacion": "27/05/2026 09:19",
   "total_productos": 899,
   "productos": [
     {
@@ -36,7 +36,7 @@
       "sublinea": "",
       "precio_bulto": 29120,
       "precio_unidad": 2912,
-      "stock": 18
+      "stock": 10
     },
     {
       "codigo": 1250,
@@ -45,7 +45,7 @@
       "sublinea": "",
       "precio_bulto": 20650,
       "precio_unidad": 826,
-      "stock": 173
+      "stock": 163
     },
     {
       "codigo": 1124,
@@ -61,8 +61,8 @@
       "descripcion": "TURRON ARCOR (Presentación x50u)",
       "linea": "ALMACEN",
       "sublinea": "",
-      "precio_bulto": 41100,
-      "precio_unidad": 3425,
+      "precio_bulto": 41820,
+      "precio_unidad": 3485,
       "stock": 332
     },
     {
@@ -90,7 +90,7 @@
       "sublinea": "ACEITES",
       "precio_bulto": 58030,
       "precio_unidad": 4835.83,
-      "stock": 17
+      "stock": 16
     },
     {
       "codigo": 1130,
@@ -99,7 +99,7 @@
       "sublinea": "ACEITES",
       "precio_bulto": 68300,
       "precio_unidad": 5691.67,
-      "stock": 448
+      "stock": 433
     },
     {
       "codigo": 1249,
@@ -225,7 +225,7 @@
       "sublinea": "ADEREZOS",
       "precio_bulto": 21120,
       "precio_unidad": 704,
-      "stock": 4
+      "stock": 3
     },
     {
       "codigo": 659,
@@ -333,7 +333,7 @@
       "sublinea": "AZUCAR",
       "precio_bulto": 11830,
       "precio_unidad": 1314.44,
-      "stock": 99
+      "stock": 89
     },
     {
       "codigo": 624,
@@ -342,7 +342,7 @@
       "sublinea": "AZUCAR",
       "precio_bulto": 19840,
       "precio_unidad": 2204.44,
-      "stock": 147
+      "stock": 144
     },
     {
       "codigo": 623,
@@ -351,7 +351,7 @@
       "sublinea": "AZUCAR",
       "precio_bulto": 16000,
       "precio_unidad": 1600,
-      "stock": 120
+      "stock": 117
     },
     {
       "codigo": 285,
@@ -387,7 +387,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 72600,
       "precio_unidad": 6050,
-      "stock": 56
+      "stock": 54
     },
     {
       "codigo": 432,
@@ -423,7 +423,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 27070,
       "precio_unidad": 4511.67,
-      "stock": 40
+      "stock": 39
     },
     {
       "codigo": 1090,
@@ -459,7 +459,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 34340,
       "precio_unidad": 2861.67,
-      "stock": 15
+      "stock": 12
     },
     {
       "codigo": 670,
@@ -495,7 +495,7 @@
       "sublinea": "CAFE",
       "precio_bulto": 44350,
       "precio_unidad": 4435,
-      "stock": 5
+      "stock": 3
     },
     {
       "codigo": 675,
@@ -1431,7 +1431,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12920,
       "precio_unidad": 861.33,
-      "stock": 106
+      "stock": 104
     },
     {
       "codigo": 1053,
@@ -1449,7 +1449,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 16630,
       "precio_unidad": 1108.67,
-      "stock": 83
+      "stock": 81
     },
     {
       "codigo": 1199,
@@ -1467,7 +1467,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 17220,
       "precio_unidad": 861,
-      "stock": 105
+      "stock": 94
     },
     {
       "codigo": 826,
@@ -1476,7 +1476,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 17220,
       "precio_unidad": 861,
-      "stock": 77
+      "stock": 55
     },
     {
       "codigo": 827,
@@ -1503,7 +1503,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12930,
       "precio_unidad": 862,
-      "stock": 94
+      "stock": 74
     },
     {
       "codigo": 878,
@@ -1521,7 +1521,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 12930,
       "precio_unidad": 862,
-      "stock": 4
+      "stock": 11
     },
     {
       "codigo": 877,
@@ -1539,7 +1539,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 14100,
       "precio_unidad": 940,
-      "stock": 26
+      "stock": 20
     },
     {
       "codigo": 539,
@@ -1611,7 +1611,7 @@
       "sublinea": "FIDEOS",
       "precio_bulto": 54750,
       "precio_unidad": 4562.5,
-      "stock": 7
+      "stock": 6
     },
     {
       "codigo": 744,
@@ -1674,7 +1674,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30330,
       "precio_unidad": 1011,
-      "stock": 45
+      "stock": 44
     },
     {
       "codigo": 1049,
@@ -1719,7 +1719,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 30440,
       "precio_unidad": 1087.14,
-      "stock": 144
+      "stock": 143
     },
     {
       "codigo": 1022,
@@ -1737,7 +1737,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16750,
       "precio_unidad": 1675,
-      "stock": 22
+      "stock": 16
     },
     {
       "codigo": 1021,
@@ -1773,7 +1773,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 18080,
       "precio_unidad": 1506.67,
-      "stock": 27
+      "stock": 26
     },
     {
       "codigo": 993,
@@ -1800,7 +1800,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 64890,
       "precio_unidad": 1802.5,
-      "stock": 1
+      "stock": 0
     },
     {
       "codigo": 843,
@@ -1809,7 +1809,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16820,
       "precio_unidad": 1201.43,
-      "stock": 47
+      "stock": 42
     },
     {
       "codigo": 464,
@@ -1827,7 +1827,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 89730,
       "precio_unidad": 1495.5,
-      "stock": 4
+      "stock": 3
     },
     {
       "codigo": 1019,
@@ -1836,7 +1836,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16700,
       "precio_unidad": 1192.86,
-      "stock": 43
+      "stock": 38
     },
     {
       "codigo": 913,
@@ -1854,7 +1854,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 16220,
       "precio_unidad": 579.29,
-      "stock": 48
+      "stock": 45
     },
     {
       "codigo": 513,
@@ -1971,7 +1971,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 20800,
       "precio_unidad": 1733.33,
-      "stock": 233
+      "stock": 227
     },
     {
       "codigo": 1207,
@@ -2025,7 +2025,7 @@
       "sublinea": "GALLETITAS",
       "precio_bulto": 17590,
       "precio_unidad": 1759,
-      "stock": 32
+      "stock": 31
     },
     {
       "codigo": 1071,
@@ -2106,7 +2106,7 @@
       "sublinea": "HARINA",
       "precio_bulto": 87320,
       "precio_unidad": 1746.4,
-      "stock": 1.102
+      "stock": 1.093
     },
     {
       "codigo": 101,
@@ -2115,7 +2115,7 @@
       "sublinea": "HARINA",
       "precio_bulto": 87320,
       "precio_unidad": 1746.4,
-      "stock": 566
+      "stock": 560
     },
     {
       "codigo": 1281,
@@ -2133,7 +2133,7 @@
       "sublinea": "HARINA",
       "precio_bulto": 5660,
       "precio_unidad": 566,
-      "stock": 383
+      "stock": 376
     },
     {
       "codigo": 528,
@@ -2142,7 +2142,7 @@
       "sublinea": "HARINA",
       "precio_bulto": 5660,
       "precio_unidad": 566,
-      "stock": 17
+      "stock": 11
     },
     {
       "codigo": 337,
@@ -2160,7 +2160,7 @@
       "sublinea": "HARINA",
       "precio_bulto": 9270,
       "precio_unidad": 772.5,
-      "stock": 281
+      "stock": 271
     },
     {
       "codigo": 996,
@@ -2169,7 +2169,7 @@
       "sublinea": "LATAS",
       "precio_bulto": 42900,
       "precio_unidad": 1787.5,
-      "stock": 3
+      "stock": 109
     },
     {
       "codigo": 1267,
@@ -2223,7 +2223,7 @@
       "sublinea": "LATAS",
       "precio_bulto": 15350,
       "precio_unidad": 1918.75,
-      "stock": 57
+      "stock": 49
     },
     {
       "codigo": 1066,
@@ -2241,7 +2241,7 @@
       "sublinea": "LECHE",
       "precio_bulto": 108300,
       "precio_unidad": 9025,
-      "stock": 188
+      "stock": 152
     },
     {
       "codigo": 1037,
@@ -2385,7 +2385,7 @@
       "sublinea": "LEGUMBRES",
       "precio_bulto": 18870,
       "precio_unidad": 1887,
-      "stock": 11
+      "stock": 7
     },
     {
       "codigo": 934,
@@ -2421,7 +2421,7 @@
       "sublinea": "LEGUMBRES",
       "precio_bulto": 32510,
       "precio_unidad": 3251,
-      "stock": 22
+      "stock": 19
     },
     {
       "codigo": 1000,
@@ -2574,7 +2574,7 @@
       "sublinea": "MERMELADAS",
       "precio_bulto": 24680,
       "precio_unidad": 2056.67,
-      "stock": 82
+      "stock": 81
     },
     {
       "codigo": 487,
@@ -2718,7 +2718,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 15330,
       "precio_unidad": 1277.5,
-      "stock": 180
+      "stock": 175
     },
     {
       "codigo": 451,
@@ -2736,7 +2736,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 10800,
       "precio_unidad": 900,
-      "stock": 207
+      "stock": 206
     },
     {
       "codigo": 453,
@@ -2745,7 +2745,7 @@
       "sublinea": "PURE DE TOMATE",
       "precio_bulto": 34420,
       "precio_unidad": 1434.17,
-      "stock": 252
+      "stock": 212
     },
     {
       "codigo": 494,
@@ -2844,7 +2844,7 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 28240,
       "precio_unidad": 941.33,
-      "stock": 161
+      "stock": 155
     },
     {
       "codigo": 118,
@@ -2853,7 +2853,7 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 9250,
       "precio_unidad": 925,
-      "stock": 186
+      "stock": 185
     },
     {
       "codigo": 119,
@@ -2898,7 +2898,7 @@
       "sublinea": "SALES DE COCINA",
       "precio_bulto": 12500,
       "precio_unidad": 12500,
-      "stock": 12
+      "stock": 2
     },
     {
       "codigo": 602,
@@ -2934,7 +2934,7 @@
       "sublinea": "SOPAS",
       "precio_bulto": 14960,
       "precio_unidad": 1496,
-      "stock": 20
+      "stock": 15
     },
     {
       "codigo": 507,
@@ -2979,7 +2979,7 @@
       "sublinea": "SOPAS",
       "precio_bulto": 12320,
       "precio_unidad": 1232,
-      "stock": 15
+      "stock": 10
     },
     {
       "codigo": 1016,
@@ -3078,7 +3078,7 @@
       "sublinea": "TE",
       "precio_bulto": 9770,
       "precio_unidad": 1628.33,
-      "stock": 52
+      "stock": 51
     },
     {
       "codigo": 678,
@@ -3186,7 +3186,7 @@
       "sublinea": "VINAGRE",
       "precio_bulto": 15100,
       "precio_unidad": 1258.33,
-      "stock": 67
+      "stock": 66
     },
     {
       "codigo": 105,
@@ -3195,7 +3195,7 @@
       "sublinea": "VINAGRE",
       "precio_bulto": 17810,
       "precio_unidad": 1484.17,
-      "stock": 467
+      "stock": 464
     },
     {
       "codigo": 103,
@@ -3240,7 +3240,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 16150,
       "precio_unidad": 1615,
-      "stock": 10
+      "stock": 7
     },
     {
       "codigo": 1243,
@@ -3276,7 +3276,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 21610,
       "precio_unidad": 1800.83,
-      "stock": 60
+      "stock": 66
     },
     {
       "codigo": 549,
@@ -3366,7 +3366,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 19200,
       "precio_unidad": 3840,
-      "stock": 3
+      "stock": 2
     },
     {
       "codigo": 1234,
@@ -3375,7 +3375,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 16530,
       "precio_unidad": 1653,
-      "stock": 37
+      "stock": 34
     },
     {
       "codigo": 772,
@@ -3411,7 +3411,7 @@
       "sublinea": "YERBAS",
       "precio_bulto": 6740,
       "precio_unidad": 3370,
-      "stock": 16
+      "stock": 13
     },
     {
       "codigo": 116,
@@ -3447,7 +3447,7 @@
       "sublinea": "",
       "precio_bulto": 13390,
       "precio_unidad": 13390,
-      "stock": 76
+      "stock": 64
     },
     {
       "codigo": 222,
@@ -3456,7 +3456,7 @@
       "sublinea": "",
       "precio_bulto": 13390,
       "precio_unidad": 13390,
-      "stock": 51
+      "stock": 39
     },
     {
       "codigo": 1163,
@@ -3609,7 +3609,7 @@
       "sublinea": "",
       "precio_bulto": 63560,
       "precio_unidad": 10593.33,
-      "stock": 0
+      "stock": 48
     },
     {
       "codigo": 463,
@@ -3771,7 +3771,7 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 7840,
       "precio_unidad": 1306.67,
-      "stock": 36
+      "stock": 24
     },
     {
       "codigo": 900,
@@ -3870,7 +3870,7 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 10370,
       "precio_unidad": 1296.25,
-      "stock": 25
+      "stock": 19
     },
     {
       "codigo": 951,
@@ -3942,7 +3942,7 @@
       "sublinea": "AGUA SABORIZADA",
       "precio_bulto": 9500,
       "precio_unidad": 527.78,
-      "stock": 219
+      "stock": 192
     },
     {
       "codigo": 471,
@@ -4032,7 +4032,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 92740,
       "precio_unidad": 7728.33,
-      "stock": 12
+      "stock": 0
     },
     {
       "codigo": 370,
@@ -4221,7 +4221,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 103540,
       "precio_unidad": 8628.33,
-      "stock": 11
+      "stock": 9
     },
     {
       "codigo": 249,
@@ -4311,7 +4311,7 @@
       "sublinea": "APERITIVOS",
       "precio_bulto": 14000,
       "precio_unidad": 14000,
-      "stock": 10
+      "stock": 7
     },
     {
       "codigo": 1154,
@@ -4698,7 +4698,7 @@
       "sublinea": "CERVEZAS",
       "precio_bulto": 42830,
       "precio_unidad": 10707.5,
-      "stock": 0
+      "stock": 12
     },
     {
       "codigo": 188,
@@ -4905,7 +4905,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 23
+      "stock": 17
     },
     {
       "codigo": 247,
@@ -4914,7 +4914,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 11880,
       "precio_unidad": 1980,
-      "stock": 53
+      "stock": 50
     },
     {
       "codigo": 248,
@@ -4977,7 +4977,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 3900,
       "precio_unidad": 650,
-      "stock": 91
+      "stock": 55
     },
     {
       "codigo": 278,
@@ -5058,7 +5058,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 13830,
       "precio_unidad": 2305,
-      "stock": 103
+      "stock": 13
     },
     {
       "codigo": 876,
@@ -5130,7 +5130,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 9550,
       "precio_unidad": 1591.67,
-      "stock": 1
+      "stock": 9
     },
     {
       "codigo": 973,
@@ -5166,7 +5166,7 @@
       "sublinea": "GASEOSAS",
       "precio_bulto": 2000,
       "precio_unidad": 2000,
-      "stock": 38
+      "stock": 32
     },
     {
       "codigo": 579,
@@ -5517,7 +5517,7 @@
       "sublinea": "SODAS",
       "precio_bulto": 9320,
       "precio_unidad": 1553.33,
-      "stock": 84
+      "stock": 78
     },
     {
       "codigo": 1275,
@@ -5679,7 +5679,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 29770,
       "precio_unidad": 4961.67,
-      "stock": 12
+      "stock": 6
     },
     {
       "codigo": 369,
@@ -6048,7 +6048,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 52490,
       "precio_unidad": 4374.17,
-      "stock": 6
+      "stock": 5
     },
     {
       "codigo": 812,
@@ -6237,7 +6237,7 @@
       "sublinea": "VINOS",
       "precio_bulto": 31940,
       "precio_unidad": 5323.33,
-      "stock": 48
+      "stock": 47
     },
     {
       "codigo": 799,
@@ -6741,7 +6741,7 @@
       "sublinea": "QUESOS",
       "precio_bulto": 6170,
       "precio_unidad": 6170,
-      "stock": 14.37
+      "stock": 0.02
     },
     {
       "codigo": 1129,
@@ -6795,7 +6795,7 @@
       "sublinea": "QUESOS",
       "precio_bulto": 29460,
       "precio_unidad": 1227.5,
-      "stock": 54.66
+      "stock": 50.75
     },
     {
       "codigo": 1122,
@@ -6822,7 +6822,7 @@
       "sublinea": "",
       "precio_bulto": 9580,
       "precio_unidad": 1596.67,
-      "stock": 148
+      "stock": 144
     },
     {
       "codigo": 132,
@@ -6912,7 +6912,7 @@
       "sublinea": "",
       "precio_bulto": 41010,
       "precio_unidad": 3417.5,
-      "stock": 117
+      "stock": 111
     },
     {
       "codigo": 1115,
@@ -6948,7 +6948,7 @@
       "sublinea": "",
       "precio_bulto": 9600,
       "precio_unidad": 800,
-      "stock": 87
+      "stock": 86
     },
     {
       "codigo": 138,
@@ -7083,7 +7083,7 @@
       "sublinea": "DESODORANTE DE AMBIENTE",
       "precio_bulto": 12950,
       "precio_unidad": 2158.33,
-      "stock": 52
+      "stock": 51
     },
     {
       "codigo": 972,
@@ -7119,7 +7119,7 @@
       "sublinea": "ESPONJAS",
       "precio_bulto": 5970,
       "precio_unidad": 497.5,
-      "stock": 529
+      "stock": 523
     },
     {
       "codigo": 830,
@@ -7155,7 +7155,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 10580,
       "precio_unidad": 3526.67,
-      "stock": 48
+      "stock": 46
     },
     {
       "codigo": 1236,
@@ -7281,7 +7281,7 @@
       "sublinea": "LAVANDINAS",
       "precio_bulto": 25650,
       "precio_unidad": 2137.5,
-      "stock": 12
+      "stock": 10
     },
     {
       "codigo": 599,
@@ -7353,7 +7353,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 14820,
       "precio_unidad": 1235,
-      "stock": 13
+      "stock": 12
     },
     {
       "codigo": 1202,
@@ -7398,7 +7398,7 @@
       "sublinea": "PAPEL HIGIENICO",
       "precio_bulto": 19600,
       "precio_unidad": 1633.33,
-      "stock": 116
+      "stock": 115
     },
     {
       "codigo": 462,
@@ -7731,7 +7731,7 @@
       "sublinea": "PERFUMINA",
       "precio_bulto": 13690,
       "precio_unidad": 1140.83,
-      "stock": 84
+      "stock": 81
     },
     {
       "codigo": 1239,
@@ -7875,7 +7875,7 @@
       "sublinea": "REJILLAS",
       "precio_bulto": 51560,
       "precio_unidad": 1473.14,
-      "stock": 225
+      "stock": 222
     },
     {
       "codigo": 588,
@@ -7884,7 +7884,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 21360,
       "precio_unidad": 890,
-      "stock": 237
+      "stock": 236
     },
     {
       "codigo": 705,
@@ -7893,7 +7893,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 9250,
       "precio_unidad": 1156.25,
-      "stock": 30
+      "stock": 227
     },
     {
       "codigo": 403,
@@ -7911,7 +7911,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 10970,
       "precio_unidad": 1371.25,
-      "stock": 34
+      "stock": 30
     },
     {
       "codigo": 1120,
@@ -7956,7 +7956,7 @@
       "sublinea": "ROLLO DE COCINA",
       "precio_bulto": 16630,
       "precio_unidad": 1663,
-      "stock": 37
+      "stock": 34
     },
     {
       "codigo": 1147,
@@ -7983,7 +7983,7 @@
       "sublinea": "SECADORES",
       "precio_bulto": 25040,
       "precio_unidad": 2086.67,
-      "stock": 76
+      "stock": 75
     },
     {
       "codigo": 835,
@@ -8010,7 +8010,7 @@
       "sublinea": "",
       "precio_bulto": 40930,
       "precio_unidad": 3410.83,
-      "stock": 94
+      "stock": 90
     },
     {
       "codigo": 985,
